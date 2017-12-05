@@ -32,10 +32,19 @@ Dividing your project in this way and planning and executing in a progression al
 
 ## Building the Backlog
 
-The first thing I’d suggest  is to start breaking down your project into discrete tasks. These should be small and achievable in a single sprint. Next, organize them based on their dependencies so they are performed in the right order. For example, you’ll probably want to complete your ‘Create Thing’ page before starting in on a ‘Search for Thing(s)’ page.
- 
-I like to define tasks as a story of the form “As a <persona> I want <requirement> So I can <value-statement>“. These describe what needs to be done in a fashion that directly relates the task to the individual that will gain the value from it. For example, 
+Building the backlog of tasks involves breaking down your project into discrete tasks. A good place to start is to treat every page in the app as a component and organize them in a logical sequence based on their dependency to one another. For example, you’ll probably want to complete your ‘Create Thing’ page before starting in on a ‘Search for Thing(s)’ page.
 
+Once you've done that define a *_user story_* for each unit of work needed to build the components. These should be very discrete and each one should be able to be completed in a single sprint. User stories are not expressed in technical terms. Instead they identify the persona that will use the delivered piece of functionality, what that requirement is, and the value they will realize from it. This may sound very foreign to you in your role as a WebDev, but its critical to ensuring that your product delivers value to the end user. The most technically beautiful implemented app is useless if it doesn't deliver on this value proposition.
+
+Stories are simple statements having a form such as:
+... 
+As a <persona> 
+I want <requirement> 
+So I can <value-statement>“ 
+...
+For example,
+...
 As an Idea Creator 
 I want to provide the URL’s to any supporting diagrams. URL’s should have a plain text description in addition to the URL itself.
-So I can quickly and easily provide reviewers with more detail about my idea (
+So I can quickly and easily provide reviewers with more detail about my idea
+...
