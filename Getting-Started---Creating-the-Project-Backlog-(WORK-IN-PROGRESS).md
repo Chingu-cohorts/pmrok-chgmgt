@@ -37,14 +37,14 @@ Building the backlog of tasks involves breaking down your project into discrete 
 Once you've done that define a *_user story_* for each unit of work needed to build the components. These should be very discrete and each one should be able to be completed in a single sprint. User stories are not expressed in technical terms. Instead they identify the persona that will use the delivered piece of functionality, what that requirement is, and the value they will realize from it. This may sound very foreign to you in your role as a WebDev, but its critical to ensuring that your product delivers value to the end user. The most technically beautiful implemented app is useless if it doesn't deliver on this value proposition.
 
 Stories are simple statements having a form such as:
-
-...As a <persona> 
-...I want <requirement> 
-...So I can <value-statement>“ 
-
+```
+As a <persona> 
+I want <requirement> 
+So I can <value-statement>
+```
 For example,
-
+```
 As an Idea Creator 
 I want to provide the URL’s to any supporting diagrams. URL’s should have a plain text description in addition to the URL itself.
 So I can quickly and easily provide reviewers with more detail about my idea
-...
+```
