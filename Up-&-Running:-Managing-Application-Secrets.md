@@ -7,7 +7,7 @@ Please note that the Guidelines presented below are sufficient to protect most p
 ## Guidelines
 
 - Never store confidential information in a public source code repository like GitHub.
-- Set up a secure vault for the sharing of app secrets. For example, a tool like 1Password with strong encryption so you can store the password vault in a Cloud storage location without fearing that it can be compromised.
+- Set up a secure vault for the sharing of app secrets. For example, a tool like 1Password with strong encryption so you can store the password vault in a Cloud storage location without fearing that it can be easily compromised.
 - Make sure that all members of the team use `.gitignore` to ensure that service accounts and passwords stored in local `.env` files are never pushed to the remote Git repo.
 - Never communicate secrets through email. Use a realtime messaging service like Slack that encrypts the transmission of data. However, if you must use email use separate email messages for the name of the service, the account id, and the password. After sending the messages delete them from your local computer and if supported from any server-based components as well (like Slack channels).
 - Never communicate secrets outside of your team. Always double check the recipient list prior to transmission to ensure that it will be sent only to authorized recipients.
