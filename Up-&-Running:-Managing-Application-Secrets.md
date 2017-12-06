@@ -6,6 +6,7 @@ Please note that the Guidelines presented below are sufficient to protect most p
 
 ## Guidelines
 
+- Assume that your team will forget the app secrets from time-to-time. Keep them in a secure place so you'll be able to produce them on demand.
 - Never store confidential information in a public source code repository like GitHub.
 - Set up a secure vault for the sharing of app secrets. For example, a tool like 1Password with strong encryption so you can store the password vault in a Cloud storage location without fearing that it can be easily compromised.
 - Make sure that all members of the team use `.gitignore` to ensure that service accounts and passwords stored in local `.env` files are never pushed to the remote Git repo.
