@@ -6,5 +6,7 @@ The "right level of detail" means that you don't want to create documentation ju
 
 As an example consider the following diagram produced by the Voyage3 Toucans-xx team to document their Git workflow. 
 
+![Team Git Workflow](https://github.com/Chingu-cohorts/pmrok/blob/development/diagrams/Git%20Workflow%20Diagram%20Example.png)
+
 This diagram shows the reader everything he or she needs to know regarding how they are expected to conduct their day-to-day development tasks with respect to Git and GitHub.
 
