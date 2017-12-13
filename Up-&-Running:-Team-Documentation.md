@@ -4,7 +4,7 @@ Generally speaking the "right point in time" is when the necessary details are s
 
 The "right level of detail" means that you don't want to create documentation just for the sake of producing documentation. Your goal should be to produce just the documentation users need and no more. It also means that what you produce must be concise and to the point. Diagrams and pictures are generally used to convey information the user needs to know with words used sparingly.
 
-As an example consider the following diagram produced by the Voyage3 Toucans-xx team to document their Git workflow. 
+As an example consider the following diagram produced by @zashishz for the Voyage3 Toucans-26 team to document their Git workflow. 
 
 ![Team Git Workflow](https://github.com/Chingu-cohorts/pmrok/blob/development/diagrams/Git%20Workflow%20Diagram%20Example.png)
 
