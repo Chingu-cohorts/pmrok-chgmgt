@@ -36,6 +36,8 @@ Building the backlog of tasks involves breaking down your project into discrete 
 
 Once you've done that define a *_user story_* for each unit of work needed to build the components. These should be very discrete and each one should be able to be completed in a single sprint. User stories are not expressed in technical terms. Instead they identify the persona that will use the delivered piece of functionality, what that requirement is, and the value they will realize from it. This may sound very foreign to you in your role as a WebDev, but its critical to ensuring that your product delivers value to the end user. The most technically beautiful implemented app is useless if it doesn't deliver on this value proposition.
 
+User stories help you to define what both "good" and "done" mean with respect to the development of your application.
+
 Stories are simple statements having a form such as:
 ```
 As a <persona> 
@@ -49,6 +51,19 @@ I want to provide the URL’s to any supporting diagrams. URL’s should have a 
 So I can quickly and easily provide reviewers with more detail about my idea
 ```
 Even though the story is expressed in non-technical terms this doesn't mean that you can't annotate it with technical details as they become known. Many of the tools you have at your disposal allow story cards to contain additional information. However, while documentation is important keep in mind that Agile values working code over comprehensive documentation this doesn't mean you don't produce documentation. It means you produce it at the right level of detail and at the right time.
+
+Many teams do find it useful to annotate the user stories with very high level checklists listing the steps to be completed for the story and the order they are to be completed in. It's important to keep in mind that these define what is to be done and not how it is to be done. It's just as important to first concentrate on building the user stories before starting work on defining the steps involved in each story.
+```
+As an Idea Creator
+I want to provide the URL's to any supporting diagrams. URL's should have a plain text description in addition to the URL itself.
+So I can quickly and easily provide reviewers with more detail about my idea
+[] Define the constraints for the URL and its description
+[] Define layout of these fields on the Idea screen
+[] Create component to support capture, display, and edit of these fields
+[] Add these fields to the database
+[] Add support for maintaining this information in the various backend idea routes
+```
+Remember that the focus of the user story is to classify who your users are, what functionality they require, and the value each function will deliver.
 
 ## Backlog Grooming
 
