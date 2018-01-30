@@ -1,7 +1,9 @@
 # Chingu-Voyage Build-to-Learn Roadmap:
 ### Act 1 
 Milestone #1 — Meet the Team
+
 Milestone #2 — Set Goals & Expectations 
+
 Milestone #3 — Brainstorm Project Options
 Milestone #4 —Define your Workflow
 Milestone #5 — Set up
