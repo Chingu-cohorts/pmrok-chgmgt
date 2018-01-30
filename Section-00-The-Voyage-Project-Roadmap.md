@@ -1,6 +1,7 @@
 # Chingu-Voyage Build-to-Learn Roadmap:
 ### Act 1 
 **Milestones**
+
 #1 — Meet the Team
 
 #2 — Set Goals & Expectations 
@@ -15,6 +16,7 @@
 
 ### Act 2
 **Milestones**
+
 #1 — Plan the Sprint
 
 #2 — Begin the Sprint
