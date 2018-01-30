@@ -1,30 +1,31 @@
 # Chingu-Voyage Build-to-Learn Roadmap:
 ### Act 1 
-Milestone #1 — Meet the Team
+**Milestones**
+#1 — Meet the Team
 
-Milestone #2 — Set Goals & Expectations 
+#2 — Set Goals & Expectations 
 
-Milestone #3 — Brainstorm Project Options
+#3 — Brainstorm Project Options
 
-Milestone #4 —Define your Workflow
+#4 —Define your Workflow
 
-Milestone #5 — Set up
+#5 — Set up
 
-Milestone #6— Define the MVP 
+#6— Define the MVP 
 
 ### Act 2
+**Milestones**
+#1 — Plan the Sprint
 
-Milestone #1 — Plan the Sprint
+#2 — Begin the Sprint
 
-Milestone #2 — Begin the Sprint
+#3 —Team Standup Review
 
-Milestone #3 —Team Standup Review
+#4 — Sprint Progress Review
 
-Milestone #4 — Sprint Progress Review
+#5 — Code Review & Merging
 
-Milestone #5 — Code Review & Merging
-
-Milestone #6 — Completed Sprint Review
+#6 — Completed Sprint Review
 
 ### Act 3 
 
