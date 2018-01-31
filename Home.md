@@ -24,3 +24,12 @@ content needed to fill any gaps.
 reflecting on what we do, finding faster and better ways to manage our
 projects, and being open to new ways of doing things.
 
+### Issues & Questions
+
+Issues and questions should be logged in the [PMRoK Issue Log](https://github.com/Chingu-cohorts/pmrok/issues). This is important to ensure
+that issues and questions are addressed in a timely manner and so serve as
+both an ongoing reference as well as a historical record.
+
+For information about how to open an issue see
+[Issue Reporting & Tracking](https://github.com/Chingu-cohorts/pmrok/wiki/Issue-Reporting-and-Tracking) in
+our GitHub wiki.
