@@ -25,7 +25,7 @@ must support sharing assignments and progress with the team.
 - A2M1 - Plan the Sprint 
 - A2M4 - Spring Progress Review 
 
-#### Meeting Tools/Pair Programming
+### Meeting Tools/Pair Programming
 
 Conducting meetings and pair programming activities both require that you
 scheduling sessions at a date and time that is convienient to all
@@ -33,7 +33,7 @@ participants. They also require that you and your team selecting a tool
 with features to help you to efficiently communicate. These features include
 audio, video, text messaging, and screensharing. 
 
-##### Scheduling and Coordination Tools
+### Scheduling Meetings and Coordination Tools
 
 Scheduling meetings in an organization like the Chingus is complicated by the
 fact our team mates are spread across many continents and timezones. Coupled
@@ -41,15 +41,11 @@ with team mate obligations outside of the Chingu universe this makes finding
 meeting times suitable for all team members as difficult as trying to nail
 jello to a tree.
 
-- [Chingu Pair Programming Matcher](https://chingupp.herokuapp.com/login) - 
-makes it easier to find your pair programing partners. Once you've signed into
-this website type `/pair-programming` in Slack, add your timezone, skill-level 
-then BINGO, when you get a match the bot will automatically generate a chat
-between you and your partner! Once you've found a match this [resource](https://medium.com/@tropicalchancer/welcome-rhinos-to-the-international-try-pair-programming-festival-of-2016-2b4b02434734) can help you to get started. 
+- [Meekan](https://meekan.com/) - This is the primary tool we encourage PMs to use for scheduling meeting times. Meekan will be installed in the Voyage slack but each member has to activate it with their calendars. PMs may have to Direct-Message members of their team who don't have it activated. 
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
 - [Timezone](http://timezone.me/en/meeting-planner)
 
-##### Meeting/Pair Programming Tools
+### Meeting & Pair Programming Tools
 
 - [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings.
 - [Discord](https://discord.com) 
