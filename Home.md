@@ -1,12 +1,6 @@
-Welcome to the PMRoK Wiki!
-
 # The Chingu Project Management Repository of Knowledge
 
-## Table of Contents
-- [Purpose](#purpose)
-- [What is a PM?](#what-is-a-pm)
-- [PMRoK Site Features](#pmrok-site-features)
-- [Useful Information](#useful-information)
+Welcome to the PMRoK Wiki!
 
 ## Purpose
 
