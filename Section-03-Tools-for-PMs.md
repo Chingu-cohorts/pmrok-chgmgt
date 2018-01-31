@@ -1,4 +1,12 @@
-#### Project Management
+#### Project Management Organization tools
+
+**Use on:** 
+
+- A1M1 - Set Goals & Expectations
+- A1M4 - Define your Workflow
+- A1M6 - Define the MVP
+- A2M1 - Plan the Sprint 
+- A2M4 - Spring Progress Review 
 
 A major part of project management is organizing the information you collect
 from your team and organizing it in a way that is actionable. Tools such as the
