@@ -1,13 +1,5 @@
 #### Project Management Organization tools
 
-**Use on:** 
-
-- A1M1 - Set Goals & Expectations
-- A1M4 - Define your Workflow
-- A1M6 - Define the MVP
-- A2M1 - Plan the Sprint 
-- A2M4 - Spring Progress Review 
-
 A major part of project management is organizing the information you collect
 from your team and organizing it in a way that is actionable. Tools such as the
 following help you create a backlog of tasks that can be tracked as they 
@@ -23,6 +15,14 @@ must support sharing assignments and progress with the team.
 - [ZenHub](https://www.zenhub.com/)
 - [Google docs](https://docs.google.com/) (better used as an ideation tool or the intial breaking down of a project to clone)
 - [Asana](www.asana.com)
+
+**Use on:** 
+(note: A = Act, M = Milestone)
+- A1M1 - Set Goals & Expectations
+- A1M4 - Define your Workflow
+- A1M6 - Define the MVP
+- A2M1 - Plan the Sprint 
+- A2M4 - Spring Progress Review 
 
 #### Meeting Tools/Pair Programming
 
