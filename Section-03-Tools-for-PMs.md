@@ -18,9 +18,11 @@ must support sharing assignments and progress with the team.
 
 Here are some past examples of Voyage members using these tools: 
 
-- [Toucans example on Github Projects](https://github.com/chingu-voyage3/toucans-06/projects/1)
-- [Bears example on Trello](https://trello.com/b/91AF3Eh9/chingu-project-example)
+- [Github Projects example (Toucans)](https://github.com/chingu-voyage3/toucans-06/projects/1)
+- [Trello example](https://trello.com/b/91AF3Eh9/chingu-project-example)
+- [Waffle example](https://waffle.io/chingu-voyage3/ideanebulae)
 - [Ideation in Google Docs](https://docs.google.com/document/d/1rrNIb8j0Ixcv5xE0wIMOxoIbTQABwC9SwqqJVe5ruDM/edit?usp=sharing)
+
 
 **Useful for the following milestones:** 
 
