@@ -1,6 +1,6 @@
 TBD
 
-# Chingu-Voyage Build-to-Learn Roadmap:
+#Overview: Chingu-Voyage Build-to-Learn Roadmap
 ### Act 1 
 **Milestones**
 
@@ -33,6 +33,52 @@ TBD
 
 ### Act 3 
 TBD
+------
+# Defined: Chingu-Voyage Build-to-Learn Roadmap
+
+### Act 1 
+**Milestones**
+
+#1 — Meet the Team
+
+What: 
+
+Resources: 
+
+-[Virtual Icebreakers for Remote teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)
+-[Ice-breaker questions](https://docs.google.com/document/d/1tBCjXMBXpD3M2uC90_Z3B7kfPjaxMoWS8v5uHLu3ASQ/edit?usp=sharing)  
+
+#2 — Set Goals & Expectations 
+
+It's important that the team "has the same picture in their heads" as far as goals & expectations go. Common questions to ask for this are: What does success look like for this project? How much time can you expect me to work on this project each week? What tech-stack am I familiar with? 
+
+#3 — Brainstorm Project Options
+
+Resources: 
+
+- [Chingu Voyage Project Prompts](https://medium.com/chingu/chingu-voyage-3-team-projects-lineup-9c3380709d77)
+
+#4 —Define your Workflow
+
+#5 — Set up
+
+#6— Define the MVP 
+
+### Act 2
+**Milestones**
+
+#1 — Plan the Sprint
+
+#2 — Begin the Sprint
+
+#3 —Team Standup Review
+
+#4 — Sprint Progress Review
+
+#5 — Code Review & Merging
+
+#6 — Completed Sprint Review
+
 -----
 
 # How can I define and assign tasks to my team? 
