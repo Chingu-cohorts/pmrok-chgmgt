@@ -59,7 +59,7 @@ jello to a tree.
 - [Discord](https://discord.com) 
 - [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though.
 - [Jitsi](https://meet.jit.si)
-- [Slack](https://slack.com) - With their acquisition of ScreenHero, Slack has incorporated screensharing and video into the Slack client. Unfortunately, more than two participants require the paid version of Slack. With this acquisition ScreenHero has been removed from the market as a standalone tool.
+- [Slack](https://slack.com) 
 - [Talky.io](https://talky.io) 
 
 #### Issue Tracking
