@@ -162,3 +162,19 @@ Please note that the Guidelines presented below are sufficient to protect most p
 - Never communicate secrets through email. Use a realtime messaging service like Slack that encrypts the transmission of data. However, if you must use email use separate email messages for the name of the service, the account id, and the password. After sending the messages delete them from your local computer and if supported from any server-based components as well (like Slack channels).
 - Never communicate secrets outside of your team. Always double check the recipient list prior to transmission to ensure that it will be sent only to authorized recipients.
 - Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. Never write secrets down on paper. GOT IT?
+
+------
+
+# Section 04 Up & Running: Team Documentation
+
+One of the foundations of the [Agile Manifesto](http://agilemanifesto.org/) is that Working software is valued over comprehensive documentation. This has led to the misconception that Agile methodologies, like Scrum, produce only code and not documentation. In fact, Agile methodologies promote the production of documentation at the right point in time and at the right level of detail. 
+
+Generally speaking the "right point in time" is when the necessary details are stable enough to produce documentation that will not require later revision. You may need to keep notes as your sprints progress so you'll have the information you need to create usable documentation, but you won't create that documentation until the details have been defined and are stable.
+
+The "right level of detail" means that you don't want to create documentation just for the sake of producing documentation. Your goal should be to produce just the documentation users need and no more. It also means that what you produce must be concise and to the point. Diagrams and pictures are generally used to convey information the user needs to know with words used sparingly.
+
+As an example consider the following diagram produced by @zashishz for the Voyage3 Toucans-26 team to document their Git workflow. 
+
+![Team Git Workflow](https://github.com/Chingu-cohorts/pmrok/blob/development/diagrams/Git%20Workflow%20Diagram%20Example.png)
+
+This diagram shows the reader everything he or she needs to know regarding how they are expected to conduct their day-to-day development tasks with respect to Git and GitHub.
