@@ -1,3 +1,9 @@
+#### Wizard
+
+**Standups**
+
+**Milestones**
+
 #### Project Management Organization tools
 
 A major part of project management is organizing the information you collect
