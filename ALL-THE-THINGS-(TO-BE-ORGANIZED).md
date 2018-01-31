@@ -1,3 +1,5 @@
+# Editing Section 01 Getting Started: Issue Reporting and Tracking
+
 # Introduction
 The PMRoK Project uses GitHub not only for source code management, but also for issue reporting. The purpose of the following guidelines is to provide guidance on how to report an issue. You might be asking yourself "How hard can this be?". You might be surprised to find out how often bad issue reports are actually created. Here are some examples:
 
