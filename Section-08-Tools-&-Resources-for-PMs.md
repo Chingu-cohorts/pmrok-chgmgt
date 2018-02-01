@@ -46,7 +46,6 @@ audio, video, text messaging, and screensharing.
 Teams may need to be flexible and adapt as need-be to make meetings and pair-programming adventures possible.
 
 Here's an article for [Virtual Icebreakers for Remote Teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)  
-- 
 
 ### Scheduling Meetings and Coordination Tools
 
