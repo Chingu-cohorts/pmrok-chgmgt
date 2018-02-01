@@ -1,4 +1,4 @@
-[I'm Nervous!](#Nervous) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project License](#project-license)
+[I'm Nervous!](#Nervous) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | 
 
 ## Nervous
 
@@ -17,17 +17,9 @@ Here are a few reflections from past Chingu Project Managers (who once felt the 
 
 [Back to Top...](#Nervous)
 
-### How Do I Report Suggestions and Problems with the Template Repo?
+### What do I do if I need help? 
 
-The Chingus are a collaborative organization of individuals who share a 
-common goal, but not necessarily a common path to success. As a result you
-will have ideas and suggestions the Voyage planners haven't thought of.
-Similarly, you will run across mistakes we haven't caught.
 
-Making the Chingu platform stonger and more relevant to the needs of its
-members is an important task and one that's one responsibility of every
-Chingu. As a result please take the time to open an issue [here](https://github.com/jdmedlock/voyage-repo-template/issues) if you have an idea,
-suggestion, or correction to report.
 
 [Back to Top...](#voyage-wiki)
 
