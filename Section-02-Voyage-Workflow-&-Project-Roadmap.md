@@ -14,7 +14,7 @@
 
 #6— Define the MVP 
 
-### Act 2
+### Act 2 
 **Milestones**
 
 #1 — Plan the Sprint
@@ -28,6 +28,8 @@
 #5 — Code Review & Merging
 
 #6 — Completed Sprint Review
+
+Note: Repeat sprints until the project MVP is complete. 
 
 ### Act 3 
 
