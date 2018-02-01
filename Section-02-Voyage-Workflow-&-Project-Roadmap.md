@@ -50,4 +50,35 @@ Note: Repeat sprints until the project MVP is complete.
 #8 - The Voyage is Complete
 
 
+ Act I: Project Setup
+    
+    ### milestones: [
+      {
+        description: `
+*Goal*: Get acquainted with your teammates.
 
+*Suggested Actions*: 
+
+> Read each other's intro stories.
+
+> Share a project or two you are most proud of in your learning journey.
+
+> Share some prime picks from your gif collection.
+
+*Icebreakers*:
+
+> What time zone are you in?
+
+> What sort of music do you like to code to? 
+
+> What is your preferred learning style (videos, docs, dialoge etc)?
+
+> What are your favorite YouTube channels, subreddits or blogs?
+
+> What technologies are you most comfortable using and explaining?
+
+> What technologies are you most interested in learning this Voyage?
+        `,
+        resource_url: null,
+      },
+   
