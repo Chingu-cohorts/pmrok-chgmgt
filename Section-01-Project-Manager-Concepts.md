@@ -34,7 +34,7 @@ Once you've done this the next step is to start defining more discrete tasks and
 
 This is also known as a Kanban board and it imposes a workflow to your project that gives you visibility to the progress of the project based on the state of its tasks. 
 
-# Editing Section 03 Up & Running: Managing Application Secrets
+# Up & Running: Managing Application Secrets
 
 ## Introduction
 
@@ -54,7 +54,6 @@ Please note that the Guidelines presented below are sufficient to protect most p
 
 -----
 
-
 ### Agile vs. SDLC Project Management - What's the difference?
 
 Once you have an idea of what very high level components make up your project you will need to start defining the tasks that must be completed to build them. In traditional Software Development Lifecycle (SDLC) project management methodologies the result was called the *_work breakdown structure (WBS)_* which was typically just a list of the tasks, their relationship to one another, and estimate of time for completion, and who they were assigned to. In SDLC all tasks were defined at the start of the project allowing the project manager to provide an accurate estimate of cost and target date for the project. However, over time it has been proven that for many types of projects this highly structured and rigid approach simply doesn't work.
@@ -66,14 +65,9 @@ Agile project management (of which Scrum is one methodology) is based on the fac
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-
 ----
 
-# TO BE ORGANIZED
-
-----
-
-# Editing Section 01 Getting Started: Issue Reporting and Tracking
+# Getting Started: Issue Reporting and Tracking
 
 # Introduction
 The PMRoK Project uses GitHub not only for source code management, but also for issue reporting. The purpose of the following guidelines is to provide guidance on how to report an issue. You might be asking yourself "How hard can this be?". You might be surprised to find out how often bad issue reports are actually created. Here are some examples:
@@ -141,7 +135,7 @@ The best source of examples for how issues are to be defined and labeled is the 
 
 ------
 
-# Section 04 Up & Running: Team Documentation
+# Up & Running: Team Documentation
 
 One of the foundations of the [Agile Manifesto](http://agilemanifesto.org/) is that Working software is valued over comprehensive documentation. This has led to the misconception that Agile methodologies, like Scrum, produce only code and not documentation. In fact, Agile methodologies promote the production of documentation at the right point in time and at the right level of detail. 
 
