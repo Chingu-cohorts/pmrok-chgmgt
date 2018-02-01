@@ -16,7 +16,7 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 |       |                 | #4   | Team Progress Review |
 |       |                 | #5   | Code Review & Merge |
 |       |                 | #6   | Completed Sprint Review |
-| **Act 3** | **Project Closure | #1 | Tidy up your code & project structure |
+| **Act 3** | **Project Closure** | #1 | Tidy up your code & project structure |
 |       |                 | #2   | Polish the User Experience |
 |       |                 | #3   | Deploy It! |
 |       |                 | #4   | MVP #1 - Share it with trusted & experienced colleagues |
