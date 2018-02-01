@@ -1,4 +1,6 @@
-As a PM in a Chingu Voyage, you'll have access to lots of support. You can gain support via the community (slack-channels: #project-managers, #ask-for-help, #resources-treasure, #community-chat), from facilitators (Weekly Check-ins, Repair Days), or by making an issue in this repo's [issue section](https://github.com/Chingu-cohorts/pmrok/issues) or in the comment section of your Weekly Check-in. 
+As a PM in a Chingu Voyage, you'll have access to lots of support.
+
+You can gain support via the community (slack-channels: #project-managers, #ask-for-help, #resources-treasure, #community-chat), from facilitators (Weekly Check-ins, Repair Days), or by making an issue in this repo's [issue section](https://github.com/Chingu-cohorts/pmrok/issues) or in the comment section of your Weekly Check-in. 
 
 In addition, your team will use the Wizard tool, which provides both structure and a clear roadmap with tips, explanations and resources. The Wizard tool will also have a Standups functionality to help keep your team communicating and active. 
 
