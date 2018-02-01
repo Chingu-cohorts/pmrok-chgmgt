@@ -8,12 +8,7 @@ Dividing your project in this way and planning and executing in a progression al
 
 ## What Are the Milestones in a Sprint?
 
-A Voyage Sprint is one week long and is made up of five distinct parts.
-
-1. Sprint Planning Meeting
-2. Development & In-Progress Reviews
-3. Code Review and Merge
-4. Sprint Review
+![Sprint Milestones](https://github.com/Chingu-cohorts/pmrok/blob/development/diagrams/Sprint%20Milestones.png)
 
 ## Building the Backlog
 
