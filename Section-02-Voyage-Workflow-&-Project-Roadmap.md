@@ -52,7 +52,7 @@ Note: Repeat sprints until the project MVP is complete.
 
 # Act I: Project Setup
  
-### #1 - Meet the teams   
+### #1 - Meet the team   
  
 *Goal*: Get acquainted with your teammates.
 
@@ -77,7 +77,14 @@ Note: Repeat sprints until the project MVP is complete.
 > What technologies are you most comfortable using and explaining?
 
 > What technologies are you most interested in learning this Voyage?
-        `,
-        resource_url: null,
-      },
+
+## #2 — Set Goals & Expectations 
+
+## #3 — Brainstorm Project Options
+
+## #4 —Define your Workflow
+
+## #5 — Set up
+
+#6— Define the MVP  
    
