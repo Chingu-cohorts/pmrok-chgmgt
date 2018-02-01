@@ -113,4 +113,38 @@ In your role as a PM you may find the following useful.
 - [Scrum Alliance](https://scrumalliance.org)
 
 
-#### To be Sorted
+#### Wise words from past Chingu Project Managers
+
+**What kind of resource do you think would be most helpful for PMs?**
+
+From Vannya: 
+
+## 1
+ I would say first, anything that can help PMs define scope. I'm not just talking about user stories like FCC and other use.  But just good info on scope definition to get to an MVP.
+They can be written in any form.  You'll see on my board, we wrote a list of the features, split them into musts and maybes, and defined our scope as the musts.  No maybes could be touched without the others complete. SMART is the acronym for scope.....specific, measurable, achievable, realistic and time frame (meaning what can be accomplished in the amount of time we have).
+
+I think this has tripped up failing teams the most.  They spend either way too much time on scope and lose enthusiasm or don't do it and just code all wild.
+
+Let me see if I can find anything specific to help.
+ - [10 Classic Mistakes That Plague Software Development Projects](https://www.techrepublic.com/blog/10-things/10-classic-mistakes-that-plague-software-development-projects/)  
+ - [The PM’s Role in Software Development](https://www.seguetech.com/the-project-managers-role-in-software-development/) 
+ - [Manage Remote Developers](https://www.upwork.com/hiring/for-clients/manage-remote-developers/) 
+
+## 2
+Second, Basic git functions.  The PM HAS to learn git.
+
+-Kornil's articles for sure (Part 1, Part 2, Part 3).
+
+[How to use Git Effectively](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)  
+[Git docs](https://git-scm.com/documentation) 
+
+Seriously, the docs are what I use the most for git when I forget how to use it.
+
+## 3
+Third, maybe resources to help them first get off the ground.  A good start oculd really get these teams to the finish line stronger.
+- [Project Kickoff Checklist Infographic](https://www.wrike.com/blog/project-kickoff-checklist-infographic/)  
+I'm trying to find something that isn't business focused for project kickoff meetings.
+- [5 Scrum Master Advice](https://hackernoon.com/5-scrum-masters-on-their-best-advice-for-leading-high-performing-teams-5b6db1165ab) 
+ 
+## Bonus
+Here's another good [short read about not overly planning the project out.](https://hackernoon.com/start-together-finish-together-5b47ca1209b3)  Just getting a good framework and moving through it.   
