@@ -1,5 +1,5 @@
 # Chingu-Voyage Build-to-Learn Roadmap
-### Act 1 Project Setup
+### Act 1 PROJECT SETUP
 
 ## #1 — Meet the Team
 
