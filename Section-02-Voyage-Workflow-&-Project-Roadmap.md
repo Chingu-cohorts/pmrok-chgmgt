@@ -32,7 +32,22 @@ TBD
 #6 — Completed Sprint Review
 
 ### Act 3 
-TBD
+
+#1 - Tidy up your code & file structure
+
+#2 - Polish the experience
+
+#3 - Deploy it!
+
+#4 - Share it with trusted & experienced colleagues
+
+#5 - Share it with the world
+
+#6 - Retrospective meeting
+
+#7 - Document the experience
+
+#8 - The Voyage is Complete
 ------
 # Defined: Chingu-Voyage Build-to-Learn Roadmap
 
