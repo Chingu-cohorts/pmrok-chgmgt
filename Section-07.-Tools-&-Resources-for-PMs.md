@@ -69,6 +69,7 @@ jello to a tree.
 - [Jitsi](https://meet.jit.si)
 - [Slack](https://slack.com) 
 - [Talky.io](https://talky.io) 
+- [Team Viewer](https://www.teamviewer.us/)
 
 #### Issue Tracking
 
@@ -81,6 +82,9 @@ Some tools that can be used to introduce the necessary rigor to issue tracking
 include:
 
 - [GitHub Issues](https://guides.github.com/features/issues/)
+- [Waffle.io](http://www.waffle.io) Integrates into Github Issues
+- [Airtable.com Bug Tracker Template](https://airtable.com)
+- Any kanban system (ex. Trello) which you track bugs, categorize them and work through them.
 
 ### Reference Material
 
@@ -117,7 +121,7 @@ In your role as a PM you may find the following useful.
 
 **What kind of resource do you think would be most helpful for PMs?**
 
-From Vannya: 
+From [Vannya](https://github.com/vannya): 
 
 ### 1
  I would say first, anything that can help PMs define scope. I'm not just talking about user stories like FCC and others use.  But just good info on scope definition to get to an MVP.
