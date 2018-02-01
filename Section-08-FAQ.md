@@ -17,19 +17,19 @@ Here are a few reflections from past Chingu Project Managers (who once felt the 
 [Back to Top...](#Nervous)
 
 ### This is the first time I've been a PM. Am I ready? 
-
+in-progress
 
 ### What do I do if I need help? 
-
+in-progress
 
 [Back to Top...](#voyage-wiki)
 
 ## Your Team 
+in-progress
 
 ### Now everyone has said Hi yet in the team-chat. What do I do?! 
-
-## Git & Github
-
+in-progress## Git & Github
+in-progress
 ###
 
 ###
