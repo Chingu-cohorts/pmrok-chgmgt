@@ -136,7 +136,7 @@ Second, Basic git functions.  The PM HAS to learn git.
 -Kornil's articles for sure 
 - [Part 1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
 - [Part 2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
-- [Part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)).
+- [Part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 
 [How to use Git Effectively](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)  
 [Git docs](https://git-scm.com/documentation) 
