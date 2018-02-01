@@ -1,3 +1,5 @@
+Chingu has an emphasis on learning through building and below is the Build-to-Learn project roadmap: 
+
 # Chingu-Voyage Build-to-Learn Roadmap
 ### Act 1 PROJECT SETUP
 
