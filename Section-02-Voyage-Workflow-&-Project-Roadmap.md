@@ -166,6 +166,29 @@ out!!)
       
 ## #5 — Set up
 
+*Goal*: Set up and explore your team's workflow tools.
+
+*Tips*:
+
+> Check to see if your pre-made Voyage team repo is functional and the proper permissions and settings are 
+configured.
+
+> Ask for help from the community with setting up tools if you get stuck. 
+
+> Don't get turned off because the setup seems daunting. It's a one time process - take the time to do it right!
+
+*Required*:
+
+> Make sure everyone uses the tools. 
+
+> Walk through an example usage of each tool and how they all come together.
+
+> Work out any kinks in people's microphones, internet connections, permissions etc.
+
+*The first sprint IS NOT the time to learn how to use the tools at hand.* 
+
+*Get comfortable early so you can focus on building not technical difficulties!* 
+
 ## #6— Define the MVP  
    
 *Goal*: Hold a meeting to decide on the minimum viable product (MVP).
