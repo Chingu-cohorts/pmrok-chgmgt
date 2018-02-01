@@ -4,13 +4,13 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 
 | Act   | Focus           | Task | Description    |
 |:-----:|:----------------|:----:|:---------------|
-| Act 1 | Project Setup   | #1   | Meet Your Team |
+| **Act 1** | **Project Setup**   | #1   | Meet Your Team |
 |       |                 | #2   | Set Goals & Expectations |
 |       |                 | #3   | Brainstorm Project Ideas |
 |       |                 | #4   | Define Your Workflow |
 |       |                 | #5   | Setup Your Development Environment |
 |       |                 | #6   | Define Your MVP |
-| Act 2 | Project Sprints (repeated for each Sprint | #1   | Plan the Sprint |
+| **Act 2** | **Project Sprints** (repeated for each Sprint | #1   | Plan the Sprint |
 |       |                 | #2   | Start the Sprint |
 
 ### Act 1 PROJECT SETUP
