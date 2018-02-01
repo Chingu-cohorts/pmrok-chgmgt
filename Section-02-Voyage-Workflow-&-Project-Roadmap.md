@@ -51,10 +51,9 @@ Note: Repeat sprints until the project MVP is complete.
 
 
  Act I: Project Setup
-    
-    ### milestones: [
-      {
-        description: `
+ 
+## #1 - Meet the teams   
+ 
 *Goal*: Get acquainted with your teammates.
 
 *Suggested Actions*: 
