@@ -110,3 +110,8 @@ In your role as a PM you may find the following useful.
 
 - [Project Management Institute](https://www.pmi.org/)
 - [Scrum Alliance](https://scrumalliance.org)
+
+
+#### To be Sorted
+
+- [Virtual Icebreakers for Remote Teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)
