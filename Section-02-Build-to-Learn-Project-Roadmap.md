@@ -4,19 +4,19 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 
 | Act   | Focus           | Task | Description    |
 |:------:|:----------------|:----:|:---------------|
-| **Act 1** | **Project Setup**   | #1   | Meet Your Team |
+| **Act 1** | **[Project Setup](#act-1---project-setup)**   | #1   | Meet Your Team |
 |       |                 | #2   | Set Goals & Expectations |
 |       |                 | #3   | Brainstorm Project Ideas |
 |       |                 | #4   | Define Your Workflow |
 |       |                 | #5   | Setup Your Development Environment |
 |       |                 | #6   | Define Your MVP |
-| **Act 2** | **Project Sprints** <br>(repeated for each Sprint) | #1   | Plan the Sprint |
+| **Act 2** | **[Development Sprints](#act-2---development-sprints)** <br>(repeated for each Sprint) | #1   | Plan the Sprint |
 |       |                 | #2   | Start the Sprint |
 |       |                 | #3   | Team Standup Review |
 |       |                 | #4   | Team Progress Review |
 |       |                 | #5   | Code Review & Merge |
 |       |                 | #6   | Completed Sprint Review |
-| **Act 3** | **Project Closure** | #1 | Tidy up your code & project structure |
+| **Act 3** | **[Project Closure](#act-3---project-closure)** | #1 | Tidy up your code & project structure |
 |       |                 | #2   | Polish the User Experience |
 |       |                 | #3   | Deploy It! |
 |       |                 | #4   | MVP #1 - Share it with trusted & experienced colleagues |
@@ -25,7 +25,7 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 |       |                 | #7   | Document the Experience |
 |       |                 | #8   | Voyage Completed! |
 
-# Act I: Project Setup
+# Act 1 - Project Setup
  
 ## #1 - Meet the team   
  
@@ -197,7 +197,7 @@ Voyage.
 features and polish* 
 ----
 
-# Act 2
+# Act 2 - Development Sprints
 
 ## Plan the Sprint
       
