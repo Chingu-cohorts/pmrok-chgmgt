@@ -10,60 +10,24 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 |       |                 | #4   | Define Your Workflow |
 |       |                 | #5   | Setup Your Development Environment |
 |       |                 | #6   | Define Your MVP |
-| **Act 2** | **Project Sprints** (repeated for each Sprint | #1   | Plan the Sprint |
+| **Act 2** | **Project Sprints** <br>(repeated for each Sprint) | #1   | Plan the Sprint |
 |       |                 | #2   | Start the Sprint |
-
-### Act 1 PROJECT SETUP
-
-## #1 — Meet the Team
-
-## #2 — Set Goals & Expectations 
-
-## #3 — Brainstorm Project Options
-
-## #4 —Define your Workflow
-
-## #5 — Set up
-
-## #6— Define the MVP 
-
-### ACT 2 PROJECT SPRINTS
-
-## #1 — Plan the Sprint
-
-## #2 — Begin the Sprint
-
-## #3 —Team Standup Review
-
-## #4 — Sprint Progress Review
-
-## #5 — Code Review & Merging
-
-## #6 — Completed Sprint Review
-
-Note: Repeat sprints until the project MVP is complete. 
-
-### Act 3 PROJECT CLOSURE
-
-## #1 - Tidy up your code & file structure
-
-## #2 - Polish the experience
-
-## #3 - Deploy it!
-
-## #4 - Share it with trusted & experienced colleagues
-
-## #5 - Share it with the world
-
-## #6 - Retrospective meeting
-
-## #7 - Document the experience
-
-## #8 - The Voyage is Complete 
+|       |                 | #3   | Team Standup Review |
+|       |                 | #4   | Team Progress Review |
+|       |                 | #5   | Code Review & Merge |
+|       |                 | #6   | Completed Sprint Review |
+| **Act 3** | **Project Closure | #1 | Tidy up your code & project structure |
+|       |                 | #2   | Polish the User Experience |
+|       |                 | #3   | Deploy It! |
+|       |                 | #4   | MVP #1 - Share it with trusted & experienced colleagues |
+|       |                 | #5   | MVP #2 - Share it with the World! |
+|       |                 | #6   | Project Retrospective Meeting |
+|       |                 | #7   | Document the Experience |
+|       |                 | #8   | Voyage Completed! |
 
 # Act I: Project Setup
  
-### #1 - Meet the team   
+## #1 - Meet the team   
  
 *Goal*: Get acquainted with your teammates.
 
