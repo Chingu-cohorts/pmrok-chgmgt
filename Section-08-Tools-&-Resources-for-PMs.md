@@ -1,5 +1,7 @@
 ## Tools
 
+Below are some tools and resources teams have found helpful in the past. Most of these were discovered by people like you, so if you find a resource or tool that was helpful please let us know! 🚀 
+
 #### Chingu-X & The Wizard
 
 Chingu is a platform to launch opportunities for developers, but another part of Chingu is researching and developing ways to better facilitate those opportunities. We call this global collaboration lab Chingu-X, and they built: 
