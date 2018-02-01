@@ -1,4 +1,4 @@
-[I'm Nervous!](#Nervous)| [Your Team](#your-team) | [Git & GitHub](#git-github) | 
+[I'm Nervous!](#nervous)| [Your Team](#your-team) | [Git & GitHub](#git-github) | 
 
 ## Nervous
 
@@ -14,7 +14,7 @@ Here are a few reflections from past Chingu Project Managers (who once felt the 
 - [Olly's article: Taking the reins: A Junior Developer’s voyage as a PM](https://medium.com/chingu/taking-the-reins-a-junior-developers-voyage-as-a-pm-c2883ae04467)
 - [Vannya's video: on starting off with enthusiasm](https://vimeo.com/244577373)
 
-[Back to Top...](#Nervous)
+[Back to Top...](#nervous)
 
 ### This is the first time I've been a PM. Am I ready? 
 in-progress
@@ -22,7 +22,7 @@ in-progress
 ### What do I do if I need help? 
 in-progress
 
-[Back to Top...](#voyage-wiki)
+[Back to Top...](#nervous)
 
 ## Your Team 
 in-progress
