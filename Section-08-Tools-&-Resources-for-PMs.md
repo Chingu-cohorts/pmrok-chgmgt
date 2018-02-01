@@ -113,13 +113,13 @@ In your role as a PM you may find the following useful.
 - [Scrum Alliance](https://scrumalliance.org)
 
 
-#### Wise words from past Chingu Project Managers
+## Wise words from past Chingu Project Managers
 
 **What kind of resource do you think would be most helpful for PMs?**
 
 From Vannya: 
 
-## 1
+### 1
  I would say first, anything that can help PMs define scope. I'm not just talking about user stories like FCC and other use.  But just good info on scope definition to get to an MVP.
 They can be written in any form.  You'll see on my board, we wrote a list of the features, split them into musts and maybes, and defined our scope as the musts.  No maybes could be touched without the others complete. SMART is the acronym for scope.....specific, measurable, achievable, realistic and time frame (meaning what can be accomplished in the amount of time we have).
 
@@ -130,7 +130,7 @@ Let me see if I can find anything specific to help.
  - [The PM’s Role in Software Development](https://www.seguetech.com/the-project-managers-role-in-software-development/) 
  - [Manage Remote Developers](https://www.upwork.com/hiring/for-clients/manage-remote-developers/) 
 
-## 2
+### 2
 Second, Basic git functions.  The PM HAS to learn git.
 
 -Kornil's articles for sure (Part 1, Part 2, Part 3).
@@ -140,7 +140,7 @@ Second, Basic git functions.  The PM HAS to learn git.
 
 Seriously, the docs are what I use the most for git when I forget how to use it.
 
-## 3
+### 3
 Third, maybe resources to help them first get off the ground.  A good start oculd really get these teams to the finish line stronger.
 - [Project Kickoff Checklist Infographic](https://www.wrike.com/blog/project-kickoff-checklist-infographic/)  
 I'm trying to find something that isn't business focused for project kickoff meetings.
