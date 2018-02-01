@@ -22,10 +22,21 @@ Here are a few reflections from past Chingu Project Managers (who once felt the 
 ### What do I do if I need help? 
 
 
-
 [Back to Top...](#voyage-wiki)
 
+## Your Team 
 
+### Now everyone has said Hi yet in the team-chat. What do I do?! 
+
+### 
+
+###
+
+###
+
+###
+
+###
 
 
 
