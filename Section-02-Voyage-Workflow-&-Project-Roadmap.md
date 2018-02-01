@@ -220,3 +220,153 @@ Voyage.
 
 *Shoot for finishing the MVP ahead of schedule so the extra time can be used to implement those additional 
 features and polish* 
+----
+
+# Act 2
+
+## Plan the Sprint
+      
+*Goal*: Subdivide the MVP into a feature(s) sprint.
+
+*Notes*: 
+
+> Determine a starting point for working towards the completion of the MVP.
+
+> The tasks for each sprint *should require 1 week or less to complete*.
+
+> Do your best but don't worry if you underestimate the required time - you can reflect and adjust in the next 
+sprint.
+
+*Tips*:
+
+> Select one or more top-level features from the MVP and explore how it can be broken down into individual tasks.
+
+> Think about the order in which the tasks will be completed and mark those that can be worked on independently or 
+in parallel.
+
+> The team should take ample time to explore the sprint and all of its tasks. Everyone should be aware of the 
+sprint on a conceptual and somewhat of a technical level.
+
+> High level implementation details can be discussed but don't lose time writing out any code or specific details.
+
+> Finer details and coding will take place after the sprint has been thoroughly explored.
+
+*Workflow*
+
+> Now is the time to create cards for each of the tasks. 
+
+> Write the cards by adding descriptive titles and core details of the task as bullet points.
+
+> The cards should serve as guidelines to each task with links to key references or specific notes that may be 
+forgotten.
+
+> Finish by reviewing and assigning the cards together as a team so that everyone is on the same page and knows 
+what they are responsible for.
+
+*Don't spend too much time writing the cards or getting caught up with all the fancy buttons!* 
+
+## #2 — Begin the Sprint
+
+*Goal*: Turn all that talk into code!
+
+*Tips*:
+
+> Communicate when you're stuck. Don't stare at a screen alone.
+
+> Everyone is here to learn - be patient with each other and encourage open discussion and brainstorming solutions 
+to roadblocks.
+
+> Use the help channels and friends from other teams to resolve complex issues if your team is stumped or 
+unavailable.
+
+*Schedule a Meeting*
+
+> Schedule a time a few days from now to check in with everyone and make sure forward progress is being made by 
+the team.
+
+*Remote dev work is hard especially for beginners. Communicating openly and readily can make the difference 
+between meeting a deadline or losing momentum.*
+
+## #3 —Team Standup Review
+
+*Goal*: Review the team's progress on the sprint.
+
+*Tips*:
+
+> Start by assessing everyone's status in the sprint.
+
+> Discuss any roadblocks that are holding back progress.
+
+> Explore solutions together and construct an actionable plan to move forward.
+
+> Celebrate completed tasks and share the lessons learned in working on them.
+
+> Assess the remaining tasks and take note of how close you are to meeting this sprint's weekly deadline.
+
+*If anyone learned anything particularly valuable or overcame an irritating block be sure to share the experience in a Medium blog or discussion in the Chingu chat.*
+
+## #4 — Sprint Progress Review
+
+*Goal*: Review the team's progress on the sprint.
+
+*Steps*:
+
+> Assess everyone's status in the sprint.
+
+> Discuss any roadblocks that are holding back progress.
+
+> Explore solutions together and construct an actionable plan to move forward.
+
+> Celebrate completed tasks and share the lessons learned in working on them.
+
+> Assess the remaining tasks and take note of how close you are to meeting this sprint's weekly deadline.
+
+*Tips*:
+
+> Make sure that everyone is testing their code along the way.
+
+> During the next phase of reviewing and merging the code no glaring issues or immediate bugs should be present.
+
+> Take ownership of your tasks and make sure they have been vetted before moving onto the next one.
+
+## #5 — Code Review & Merging
+
+*Goal*: Review the code and merge into the development branch.
+
+*Tips*:
+
+> Cross-review each other's code and prevent merging without review.
+
+> Engage in thoughtful disagreement by challenging each other respsectfully.
+
+> Ask for clarification and add comments wherever needed.
+
+> Openly explain decisions and implementation details.
+
+> Test completed tasks whenever possible and seek out bugs to catch.
+
+> Work on maintaining a consistent style across the team's code. Let it come organically or use a linter rules 
+such as AirBnB or Google.
+
+*Write detailed pull request notes to maintain a clear history of the project and its progress. These will also help team members cross-review your PRs*
+
+## #6 — Completed Sprint Review
+
+*Goal*: Go over the sprint and reflect on the experience gained.
+
+*Steps*:
+
+> Assess the number of remaining tasks
+
+> Determine why they were left incomplete
+
+> Discuss how the next sprint will be improved by factoring in the lessons learned
+
+> Discuss how the workflow worked to or against your team's advantage
+
+> Discuss any new ideas that stemmed from completing the tasks. Create notes or cards to keep these ideas handy 
+for the future. 
+
+*Be patient with each other and understand that it's okay to miss a deadline. Carry over the remaining tasks and plan better for the next one!*
+
+Note: Repeat sprints until the project MVP is complete.
