@@ -370,3 +370,21 @@ for the future.
 *Be patient with each other and understand that it's okay to miss a deadline. Carry over the remaining tasks and plan better for the next one!*
 
 Note: Repeat sprints until the project MVP is complete.
+
+# Act 3 - Project Closure
+
+## #1 - Tidy up your code & file structure
+
+## #2 - Polish the experience
+
+## #3 - Deploy it!
+
+## #4 - Share it with trusted & experienced colleagues
+
+## #5 - Share it with the world
+
+## #6 - Retrospective meeting
+
+## #7 - Document the experience
+
+## #8 - The Voyage is Complete 
