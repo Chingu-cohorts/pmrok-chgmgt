@@ -1,6 +1,21 @@
-We want Project Managers 
+As a PM in a Chingu Voyage, you'll have access to lots of support. You can gain support via the community (slack-channels: #project-managers, #ask-for-help, #resources-treasure, #community-chat), from facilitators (Weekly Check-ins, Repair Days), or by making an issue in this repo's [issue section](https://github.com/Chingu-cohorts/pmrok/issues) or in the comment section of your Weekly Check-in. 
 
+In addition, your team will use the Wizard tool, which provides both structure and a clear roadmap with tips, explanations and resources. The Wizard tool will also have a Standups functionality to help keep your team communicating and active. 
 
+Below is a brief overview of how Chingu volunteers will support PMs: 
 
 ### The Voyage Workflow 
 
+1. **Weekly Check-in** - The weekly check-in with Chingu will be sent out to all members at the start of every week and will be our way of assessing team health and to help you be accountable to your learning and team. 
+
+2. **Weekly HeartBeat powerup** - HeartBeat is our tool to determine what teams need support. We use the Weekly Check-ins as well as slack & github metrics to give every team a status of: 
+
+* GREEN (progressing well) 
+* YELLOW (may need some support)
+* RED (team is in trouble, may need significant support or to be closed down)
+
+Right now it is largely done manually, but Chingu's Lead Data Scientist @trion is currently working a machine learning-assisted tool to help automate this process. It's a time consuming process and part of the reason the Weekly Check-ins are so important. I (Chance) will spend Monday-Wednesday powering up the HeartBeat before... 
+
+3. **Team Support Day!** - This day will happen every Thursday/Friday (and Saturday if need-be). We will use the insights from HeartBeat to determine what teams need assistance each week. Anything from troubles gaining momentum to looking for a replacement for a member who got a job, this day is for making sure teams are on the right path.
+
+It's also worth noting that we are continuously looking for ways to improve Chingu and we will be looking for patterns with teams that reach Yellow and Red so we can find the root causes to improve the system for the next round to of teams. 🚀 
