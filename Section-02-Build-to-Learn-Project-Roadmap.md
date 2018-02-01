@@ -3,7 +3,7 @@ At Chingu, we build to learn. Below is the project roadmap for teams:
 # Chingu-Voyage Build-to-Learn Roadmap
 
 | Act   | Focus           | Task | Description    |
-|:-----:|:----------------|:----:|:---------------|
+|:------:|:----------------|:----:|:---------------|
 | **Act 1** | **Project Setup**   | #1   | Meet Your Team |
 |       |                 | #2   | Set Goals & Expectations |
 |       |                 | #3   | Brainstorm Project Ideas |
