@@ -1,5 +1,5 @@
 # Chingu-Voyage Build-to-Learn Roadmap
-### Act 1 Milestones
+### Act 1 Project Setup
 
 ## #1 — Meet the Team
 
@@ -13,7 +13,7 @@
 
 ## #6— Define the MVP 
 
-### Act 2 Milestones
+### ACT 2 PROJECT SPRINTS
 
 ## #1 — Plan the Sprint
 
@@ -29,7 +29,7 @@
 
 Note: Repeat sprints until the project MVP is complete. 
 
-### Act 3 Milestones
+### Act 3 PROJECT CLOSURE
 
 ## #1 - Tidy up your code & file structure
 
