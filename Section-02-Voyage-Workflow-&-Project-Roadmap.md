@@ -372,16 +372,116 @@ Note: Repeat sprints until the project MVP is complete.
 
 ## #1 - Tidy up your code & file structure
 
+*Goal*: Have a codebase that you can look back on proudly in a few months and still understand what you were doing.
+  
+  When your code is clean, well structured, and *DRY*, you can easily share it with other programmers, possible employers, and future teammates.
+  
+  *Tips*:
+
+  > Remove extra and unnecessary \`console.log(...)\` statements.
+
+  > Comment your code thoroughly. (If you're using Javascript, consider the JSDoc pattern.)
+
+  > Factor out any repetitive pieces of logic. Try to use more generic functions. (*Be careful!:* Don't make 
+things too generic! It could make the code harder to understand.)
+
+  > Use common file & folder structures and established community best practices in design patterns.
+  
+  *DRY* (*D*on't *R*epeat *Y*ourself): Try to factor out portions of your logic into reusable functions, classes, and components so as to avoid repeating yourself. Code that is factored this way is said to be *DRY*.
+  
+  *IMPORTANT:* After modifying your code, make sure you test it thoroughly so as to make sure you didn't break anything!
+
 ## #2 - Polish the experience
+
+ *Goal*: Add the finishing touches to make this project really shine! This is where (if you have the time) you can go that extra mile.
+  
+  An optimized experience reflects well on your abilities and increases the credebility of the project.
+  
+  *Tips*:
+ 
+ > Make it fully responsive and check your design on common screen sizes.
+
+  > Make your methods and logic more efficient.
+
+  > Decrease the size of what is downloaded by the user (At least on first load.)
 
 ## #3 - Deploy it!
 
+*Goal*: Make your project publicly accessible.
+  
+  Once you deploy your project you can then share it with others so that they can review and use it. This is especially useful when you want to get feedback or just when you want to perform some user tests. Deploying is also useful because it allows you to provide a link to a live demo version on your resume and your portfolio.
+  
+  *Tips*:
+
+  > Consider a simple, managed hosting service like Heroku or Google App Engine.
+
+  > Don't worry too much about infrastructure design, just use the most basic setup possible so as not to run into 
+issues.
+
+  > Search online for deployment strategies that match your stack and your use case. You will find many articles and tutorials with step by step guides on how to deploy your favourite stack on a popular managed service.
+
 ## #4 - Share it with trusted & experienced colleagues
+
+*Goal*: Gather important feedback and perform some basic user testing.
+  
+  Sharing your project with peers is an extremely helpful way of gathering useful feedback. This could be feedback on the experience of your app or feedback on the actual code. You can then use this feedback to further polish the experience. Another benefit to having many people use your application is that you are more likely to catch bugs.
+  
+  *Tips*:
+
+  > Share your project on chingu in #community-chat and ask people to check it out.
+
+  > Share it with programmers you personally know such as friends, classmates, or work colleagues.
+
+  > Don't explain the application too much. Just give them the basic idea and let them figure out how to use it. 
+If they can't figure out how it works or if they are stuck on something then there is probably something wrong 
+with the experience.
 
 ## #5 - Share it with the world
 
+*Goal*: More feedback and testing!
+  
+  When you share your project publicly you are likely to get even more useful feedback and catch more bugs since your audience is now much larger and more diverse. This also adds to your 'online presence' which is extremely valuable when applying for jobs.
+  
+  *Tips*:
+
+  > Write a medium article announcing the project and asking people to try it out.
+
+  > Share it on social media (Facebook, Twitter, etc.) and even on professional networks such as linkedin.
+
+  > If you are part of any other technical/hacker communities consider sharing it there too.
+
+  > Make sure the tier of hosting you are using is ready to handle the additional traffic.
+
 ## #6 - Retrospective meeting
 
+*Goal*: Solidify the experience and look back on everything you have accomplished.
+  
+  Organize a meeting with your team to discuss everything you have worked on, the outcome you have reached, the things you have learnt, your experience, and maybe even discuss the future of your project if you would like it to continue. Take this as an opportunity to compliment and, *more importantly*, critique each other. This will help you improve your soft skills and also provide your teammates with important feedback that they can also use to improve themselves.
+  
+  *Tips*:
+
+  > Discuss the highs and the lows. Discuss the reasons behind the lows.
+
+  > Give honest and critical feeback but don't be unnecessarily mean.
+
+  > Take feedback from your teammates with an open mind. Don't be quick to snap or defend yourself. Use this as an 
+opportunity to grow.
+
 ## #7 - Document the experience
+
+*Goal*: Increase your online presence and practice writing about your experience.
+  
+  Write about everything. Not just the actual project but also your experience, your thoughts, and your teammates. This is helpful because as you move forward in your career as a programmer you will have points of reference to look back on to see how you have grown not just technically but also in terms of soft skills.
+  
+  Getting into the habit of writing a lot will help you increase your online presence and ultimately improve your chances of getting a job.
+  
+
+  *Tips*:
+
+  > Document everything regarding the experience.
+
+  > Have your teammates review it before publishing. They might catch something you have forgotten.
+
+  > Share the article with your peers and with the public to increase your online presence.
 
 ## #8 - The Voyage is Complete 
