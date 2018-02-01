@@ -17,10 +17,10 @@ Here are a few reflections from past Chingu Project Managers (who once felt the 
 [Back to Top...](#nervous)
 
 ### This is the first time I've been a PM. Am I ready? 
-in-progress
+This is a question only you can answer.  However, if you've read through this wiki and are willing to put in the time and effort, you can be.  Just remember to reach out with any questions immediately and to just keep moving your team forward.  The Chingu community is learning and growing together.  We are all here to support one another.
 
 ### What do I do if I need help? 
-in-progress
+Everyone needs help sometimes. Be prepared to ask for it when you need it.  First, look back over this wiki and see if the answer is here. We will be adding to it often as questions arise.  Additionally, you can head to the PM slack and ask the other PMs.  Possibly one of us will have stumbled across that same issue and have the answer.  
 
 [Back to Top...](#nervous)
 
