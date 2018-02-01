@@ -80,11 +80,24 @@ Note: Repeat sprints until the project MVP is complete.
 
 ## #2 — Set Goals & Expectations 
 
+*Goal*: Determine the team's learning expectations and availability.
+*Commitment*: 
+> It is critical to make sure that everyone is realistic in their level of commitment and availability.
+> Working less than you commit to is disrespectful to your teammates and can stunt the team's progress and morale.
+> Typically team members commit 4-10 hours a week towards the project.
+*Learning Goals*: 
+> Evaluate everyone's current technical abilities.
+> Determine at least one primary technical learning goal for each teammate
+> Pick something that is 25% outside of the team's comfort zone / skillset. 
+> Any further and you will likely be overwhelmed. 
+> Any less and you are limiting your rate of learning. 
+*Voyages go by faster than you think and you need to focus on learning through building rather than getting caught in research rabbit-holes*.
+
 ## #3 — Brainstorm Project Options
 
 ## #4 —Define your Workflow
 
 ## #5 — Set up
 
-#6— Define the MVP  
+## #6— Define the MVP  
    
