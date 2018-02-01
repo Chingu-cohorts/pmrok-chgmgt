@@ -13,7 +13,7 @@
 
 ## #6— Define the MVP 
 
-### Act 2 Milestones**
+### Act 2 Milestones
 
 ## #1 — Plan the Sprint
 
