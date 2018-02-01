@@ -35,22 +35,18 @@ Here are some past examples of Voyage members using these tools:
 - [Ideation in Google Docs](https://docs.google.com/document/d/1rrNIb8j0Ixcv5xE0wIMOxoIbTQABwC9SwqqJVe5ruDM/edit?usp=sharing)
 
 
-**Useful for the following milestones:** 
-
-(note: A = Act, M = Milestone)
-- A1M1 - Set Goals & Expectations
-- A1M4 - Define your Workflow
-- A1M6 - Define the MVP
-- A2M1 - Plan the Sprint 
-- A2M4 - Spring Progress Review 
-
 ### Meeting Tools/Pair Programming
 
 Conducting meetings and pair programming activities both require that you
-scheduling sessions at a date and time that is convienient to all
+schedule sessions at a date and time that is convenient to all
 participants. They also require that you and your team selecting a tool 
 with features to help you to efficiently communicate. These features include
 audio, video, text messaging, and screensharing. 
+
+Teams may need to be flexible and adapt as need-be to make meetings and pair-programming adventures possible.
+
+Here's an article for [Virtual Icebreakers for Remote Teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)  
+- 
 
 ### Scheduling Meetings and Coordination Tools
 
@@ -117,5 +113,3 @@ In your role as a PM you may find the following useful.
 
 
 #### To be Sorted
-
-- [Virtual Icebreakers for Remote Teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)
