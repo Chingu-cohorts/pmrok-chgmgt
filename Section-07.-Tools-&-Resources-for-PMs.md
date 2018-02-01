@@ -120,7 +120,7 @@ In your role as a PM you may find the following useful.
 From Vannya: 
 
 ### 1
- I would say first, anything that can help PMs define scope. I'm not just talking about user stories like FCC and other use.  But just good info on scope definition to get to an MVP.
+ I would say first, anything that can help PMs define scope. I'm not just talking about user stories like FCC and others use.  But just good info on scope definition to get to an MVP.
 They can be written in any form.  You'll see on my board, we wrote a list of the features, split them into musts and maybes, and defined our scope as the musts.  No maybes could be touched without the others complete. SMART is the acronym for scope.....specific, measurable, achievable, realistic and time frame (meaning what can be accomplished in the amount of time we have).
 
 I think this has tripped up failing teams the most.  They spend either way too much time on scope and lose enthusiasm or don't do it and just code all wild.
@@ -144,7 +144,7 @@ Second, Basic git functions.  The PM HAS to learn git.
 Seriously, the docs are what I use the most for git when I forget how to use it.
 
 ### 3
-Third, maybe resources to help them first get off the ground.  A good start oculd really get these teams to the finish line stronger.
+Third, maybe resources to help them first get off the ground.  A good start could really get these teams to the finish line stronger.
 - [Project Kickoff Checklist Infographic](https://www.wrike.com/blog/project-kickoff-checklist-infographic/)  
 I'm trying to find something that isn't business focused for project kickoff meetings.
 - [5 Scrum Master Advice](https://hackernoon.com/5-scrum-masters-on-their-best-advice-for-leading-high-performing-teams-5b6db1165ab) 
