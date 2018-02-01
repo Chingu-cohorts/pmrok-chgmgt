@@ -1,4 +1,4 @@
-[I'm Nervous!](#Nervous) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | 
+[I'm Nervous!](#Nervous)| [Your Team](#your-team) | [Git & GitHub](#git-github) | 
 
 ## Nervous
 
@@ -28,7 +28,7 @@ Here are a few reflections from past Chingu Project Managers (who once felt the 
 
 ### Now everyone has said Hi yet in the team-chat. What do I do?! 
 
-### 
+## Git & Github
 
 ###
 
