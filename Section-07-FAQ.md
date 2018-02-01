@@ -1,4 +1,4 @@
-[Voyage Wiki](#Nervous) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project License](#project-license)
+[I'm Nervous!](#Nervous) | [Voyage](#voyage) | [Your Team](#your-team) | [Git & GitHub](#git-github) | [Project License](#project-license)
 
 ## Nervous
 
