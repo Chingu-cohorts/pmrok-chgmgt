@@ -50,9 +50,9 @@ Note: Repeat sprints until the project MVP is complete.
 #8 - The Voyage is Complete
 
 
- Act I: Project Setup
+# Act I: Project Setup
  
-## #1 - Meet the teams   
+### #1 - Meet the teams   
  
 *Goal*: Get acquainted with your teammates.
 
