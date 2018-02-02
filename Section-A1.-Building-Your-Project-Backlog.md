@@ -1,4 +1,24 @@
-## User Stories
+## Sagas, Epics, & User Stories
+
+It is often helpful to categorize stories as sagas, epics, and stories to reflect differences in their scope and lifespan.
+
+### Sagas
+
+Sagas are “big picture” requirements that are extremely broad in their scope. An example of a saga might be:
+
+“As a: end-user I want to: use an application that has exceptional performance and responds to my requests within a matter of seconds So I can: quickly complete my work and stay focused on my immediate task.”
+
+This type of requirement is very broad in its scope and sets an expectation for all functions in the application. As such, every feature and unit of functionality must take it into consideration. This means that multiple epics and stories will be based on this type of saga. Sagas typically have a long life and while they must be adhered to they are not fully completed until all lower level epics and stories rooted in them are finished.
+
+### Epics
+
+The next type of story is an epic. Like a saga, epics have a lifespan of multiple sprints and cannot be considered complete until all stories based on them are also complete. However, epics have a narrower focus than a saga and although still broad in nature, they can be completed within a few sprints. For example,
+
+“As a: content-contributor I want to: categorize the content I create So I can: ensure that readers can easily locate it”.
+
+This type of requirement will result in multiple stories defining how content categories are defined and maintained, how they are associated with content, and how search functions utilize them.## User Stories
+
+### Stories
 
 Building the backlog of tasks involves breaking down your project into discrete tasks. A good place to start is to treat every page in the app as a component and organize them in a logical sequence based on their dependency to one another. For example, you’ll probably want to complete your ‘Create Thing’ page before starting in on a ‘Search for Thing(s)’ page.
 
