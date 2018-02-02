@@ -20,20 +20,18 @@ At the start of each sprint the Product Owner defines a goal for the sprint and 
 
 The team also plans for how they will work together to complete the sprint. This may include discussions around risks and contingencies, test plans, etc. An option available to the Development Team is to pair members of the team to work on certain stories. For example, it may be advantageous for a frontend developer and a backend developer to pair with one another to ensure that API’s are well established.
 
-### Daily Scrum Meeting
+### Sprint Standup Review & Sprint Progress Review
 
-During the course of a sprint the Scrum Team gathers daily for a 15-minute meeting to report progress and roadblocks. This meeting is referred to as the Daily Scrum and its purpose is for each member of the team to review what was accomplished towards the sprint goal since the last meeting, what is to be accomplished by the next meeting, and to identify any obstacles. The goal of this meeting is to make sure that there is transparency across the team to both successes and roadblocks.
+During the course of a sprint the Scrum Team gathers daily for a 15-minute meeting to report progress and roadblocks. Meetings of this type are referred to as the Daily Scrum in the Scrum methodology. In Chingu Voyages they are referred to as the _Sprint Standup Review_ and the _Sprint Progress Review_.  Their purpose is for each member of the team to review what was accomplished towards the sprint goal since the last meeting, what is to be accomplished by the next meeting, and to identify any obstacles. The goal of this meeting is to make sure that there is transparency across the team to both successes and roadblocks.
 
-The Daily Scrum is not intended to solve issues or problems during the meeting, but to expose them to the entire team and for teammates to schedule time to work on them. This allows the proper resources to be brought to bear so the time of other teammates is not wasted. Desired behaviour on the part of the team is for individuals to volunteer to help rather than resources being explicitly assigned by the Product Owner or Scrum Master.
+These are not intended to be meetings where issues or problems are to be solved during the meeting, but to expose them to the entire team and for teammates to schedule time to work on them. This allows the proper resources to be brought to bear so the time of other teammates is not wasted. Desired behaviour on the part of the team is for individuals to volunteer to help rather than resources being explicitly assigned by the PM.
 
-### Sprint Review
+### Code Review & Merge
 
-At the end of each sprint a Sprint Review is conducted to demonstrate the working product to the customer. This is an “all hands” meeting attended by customer representatives, the Product Owner, and the Scrum Team. This meeting is an opportunity to get direct customer feedback on the state of the product, discuss issues and possible changes or new features, and to decide on what to do next.
-
-The Sprint Review allows the Development Team to receive unfiltered feedback directly from the customer and involves both the customer and the Development Team in identifying next steps. In this respect the Sprint Review provides timely and relevant input to the next Sprint Planning session.
+At the end of each sprint a Code Review is conducted to walkthrough the working product and to merge it into the projects `master` branch. This meeting is an opportunity to get feedback on the state of the product, discuss issues and possible changes or new features, and to decide on what to do next.
 
 ### Sprint Retrospective
 
-The Sprint Retrospective is conducted by and for the Scrum Team to promote continuous improvement. It is the primary means to the team uses to improve their work and to drive value not just for the customer, but also for themselves in the form of a more integrated and smoothly operating team.
+The Sprint Retrospective is conducted by and for the Project Team to promote continuous improvement. It is the primary means to the team uses to improve their work and to drive value not just for the customer, but also for themselves in the form of a more integrated and smoothly operating team.
 
 This is an inward look by the team at how they performed during the last sprint and identify changes for the next sprint. This isn’t just about technology and tools, but also about procedures, interactions between people and roles, and successes and failures. The goal is to improve by implementing “midstream” corrections at the point they are needed.
