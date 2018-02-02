@@ -16,7 +16,7 @@ Below is a brief overview of how Chingu volunteers will support PMs:
    * YELLOW (may need some support)
    * [RED](https://giphy.com/gifs/cat-fire-rescue-phJ6eMRFYI6CQ) (team is in trouble, may need significant support or to be closed down)
 
-Right now it is largely done manually, but Chingu's Lead Data Scientist @trion is currently working a machine learning-assisted tool to help automate this process. It's a time consuming process and part of the reason the Weekly Check-ins are so important. I (Chance) will spend Monday-Wednesday powering up the HeartBeat before... 
+   Right now it is largely done manually, but Chingu's Lead Data Scientist @trion is currently working a machine learning-assisted tool to help automate this process. It's a time consuming process and part of the reason the Weekly Check-ins are so important. I (Chance) will spend Monday-Wednesday powering up the HeartBeat before... 
 
 3. **Team Support Day!** - This day will happen every Thursday/Friday (and Saturday if need-be). We will use the insights from HeartBeat to determine what teams need assistance each week. Anything from troubles gaining momentum to looking for a replacement for a member who got a job, this day is for making sure teams are on the right path.
 
