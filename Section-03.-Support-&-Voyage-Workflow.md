@@ -12,9 +12,9 @@ Below is a brief overview of how Chingu volunteers will support PMs:
 
 2. **Weekly HeartBeat powerup** - HeartBeat is our tool to determine what teams need support. We use the Weekly Check-ins as well as slack & github metrics to give every team a status of: 
 
-* GREEN (progressing well) 
-* YELLOW (may need some support)
-* [RED](https://giphy.com/gifs/cat-fire-rescue-phJ6eMRFYI6CQ) (team is in trouble, may need significant support or to be closed down)
+   * GREEN (progressing well) 
+   * YELLOW (may need some support)
+   * [RED](https://giphy.com/gifs/cat-fire-rescue-phJ6eMRFYI6CQ) (team is in trouble, may need significant support or to be closed down)
 
 Right now it is largely done manually, but Chingu's Lead Data Scientist @trion is currently working a machine learning-assisted tool to help automate this process. It's a time consuming process and part of the reason the Weekly Check-ins are so important. I (Chance) will spend Monday-Wednesday powering up the HeartBeat before... 
 
