@@ -21,3 +21,13 @@ Below is a brief overview of how Chingu volunteers will support PMs:
 3. **Team Support Day!** - This day will happen every Thursday/Friday (and Saturday if need-be). We will use the insights from HeartBeat to determine what teams need assistance each week. Anything from troubles gaining momentum to looking for a replacement for a member who got a job, this day is for making sure teams are on the right path.
 
 It's also worth noting that we are continuously looking for ways to improve Chingu and we will be looking for patterns with teams that reach Yellow and Red so we can find the root causes to improve the system for the next round to of teams. 🚀 
+
+### Community Support
+
+Each Chingu Voyage has a few hundred developers from all levels who come from diverse backgrounds. Viewed as a collective brain, each Voyage is both a marvel of diversity and an excellent resource for you and your team. I encourage all teams to consider the collective brain of the Voyage as a team-mate. 
+
+You can access this collective brain in the following ways: 
+
+* **Slack channels** - #ask-for-help-here, #community-cht, #Project Managers, #resource-treasures
+* **Weekly Check-ins** - there will be an opportunity to let us know of any improvements or ask for help on this check-in. For example, if you say your team needs help with Auth0, we may be able to find someone to send your team's way to help. 
+* **Chingu Medium Publication** - Every week Chingu will publish a Weekly Update on the Chingu ecosystem and all the wild projects & news from Chingu members.
