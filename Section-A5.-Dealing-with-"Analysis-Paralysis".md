@@ -20,7 +20,7 @@ What follows are various situations that can impair your teams ability to comple
 Some teams have a tendency to over commit to the amount of new technology they choose to include in their app. This includes frontend libraries and frameworks, CSS libraries, database management systems, object relational mappers, and a whole myriad of development and runtime technologies. 
 
 ### Symptoms
-1. Technologies in the project stack which no one on the team has any experience using.
+1. _Danger_: Technologies in the project stack which no one on the team has any experience using.
 2. _Warning_: User story uncompleted for more than 1 sprint
 3. _Danger_: User story uncompleted for more than 2 sprints
 
