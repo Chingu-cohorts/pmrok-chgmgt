@@ -48,5 +48,10 @@ One of the great traits of Chingu teams is they are driven to stretching their c
 This case is similar to "Too Much New" except it describes the situation where a teams progress is held back due to switching technologies in the application stack. Essentially chasing new technologies at the expense of getting anything done. Although there may be good reasons for a mid-stream change to the application stack, given the short duration of Chingu Voyages changing components should be seriously questioned once development is underway.
 
 ### Symptoms
+1. _Warning_: Team members unable to agree on which components will make up the apps technical stack.
+2. _Warning_: No clear agreement or decision on the technical stack
+3. _Danger_: Composition of the technical stack not 100% defined in Sprint 2.
+4. _Danger_: Changes proposed to one or more parts of the technical stack after Sprint 3.
 
 ### Preventative, Corrective, or Mitigating Actions
+1. 
