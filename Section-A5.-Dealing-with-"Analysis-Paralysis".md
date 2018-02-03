@@ -54,4 +54,6 @@ This case is similar to "Too Much New" except it describes the situation where a
 4. _Danger_: Changes proposed to one or more parts of the technical stack after Sprint 3.
 
 ### Preventative, Corrective, or Mitigating Actions
-1. 
+1. As part of both Sprints 1 & 2 educate your team on the importance of defining how the team will operate during the Voyage and the implications of changing parts of the stack after development begins.
+2. If a change to the stack is proposed after Sprint 2 - Design work with the team to ensure that there is sufficient justification for the change and the impact it has on completing the project on time is fully understood.
+3. Changes proposed after Sprint 5 should be challenged since this is the midway point in the Voyage's development cycle.
