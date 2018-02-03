@@ -6,9 +6,9 @@ Below are some tools and resources teams have found helpful in the past. Most of
 
 Chingu is a platform to launch opportunities for developers, but another part of Chingu is researching and developing ways to better facilitate those opportunities. We call this global collaboration lab Chingu-X, and they built: 
 
-* The Wizard Acts & Milestones - This is a tool to provide structure and a project roadmap for teams to follow. Project Managers will log the team's progress here which will also help us determine what teams need support. 
+* **The Wizard Acts & Milestones** - This is a tool to provide structure and a project roadmap for teams to follow. Project Managers will log the team's progress here which will also help us determine what teams need support. 
 
-* The Wizard Standups - This is a tool to better facilitate team communication. It will ping you twice a week to answer a few short questions (ex. What did you work on? What are you going to work on? What is blocking your way?) and relay that information back to your team. 
+* **The Wizard Standups** - This is a tool to better facilitate team communication. It will ping you twice a week to answer a few short questions (ex. What did you work on? What are you going to work on? What is blocking your way?) and relay that information back to your team. 
 
 
 #### Project Management Organization tools
