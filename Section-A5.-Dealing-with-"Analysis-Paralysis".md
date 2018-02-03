@@ -1,7 +1,5 @@
 [Goals & Expectations](#setting-your-goals--expectations) | [Too Much New](#case-1-too-much-new) | [Perfection](#case-2-perfection-is-the-enemy-of-good) | [Shiny Object](#case-3-the-bright-shiny-new-object)
 
-One of the great traits of Chingu teams is they are driven to stretching their capabilities to learn new technologies and to deliver quality applications. These are admirable attributes, but it's important that teams not sacrifice completing a project at the expense of striving for perfection.
-
 The short duration of Chingu Voyages requires that teams strike a delicate balance between performing quality work, learning new things, and completing the project. This is made even more import by the fact that team members typically have responsibilities outside of their Voyage project such as family obligations, jobs, and school which can create more stress. The objective of the Voyage is to learn and not increase stress.
 
 ## Setting Your Goals & Expectations
@@ -33,4 +31,16 @@ Some teams have a tendency to over commit to the amount of new technology they c
 
 ## Case #2: "Perfection is the enemy of Good"
 
+One of the great traits of Chingu teams is they are driven to stretching their capabilities to learn new technologies and to deliver quality applications. These are admirable attributes, but it's important that teams not sacrifice completing a project at the expense of striving for perfection.
+
+### Symptoms
+
+### Preventative, Corrective, or Mitigating Actions
+
 ## Case #3: "The Bright Shiny New Object"
+
+This case is similar to "Too Much New" except it describes the situation where a teams progress is held back due to switching technologies in the application stack. Essentially chasing new technologies at the expense of getting anything done. Although there may be good reasons for a mid-stream change to the application stack, given the short duration of Chingu Voyages changing components should be seriously questioned once development is underway.
+
+### Symptoms
+
+### Preventative, Corrective, or Mitigating Actions
