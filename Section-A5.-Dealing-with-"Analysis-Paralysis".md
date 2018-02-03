@@ -1,4 +1,4 @@
-![Goals & Expectations](#setting-your-goals--expectations) | ![Too Much New](#case-1-too-much-new) | ![Perfection](#case-2-perfection-is-the-enemy-of-good) | ![Shiny Object](#case-3-the-bright-shiny-new-object)
+[Goals & Expectations](#setting-your-goals--expectations) | [Too Much New](#case-1-too-much-new) | [Perfection](#case-2-perfection-is-the-enemy-of-good) | [Shiny Object](#case-3-the-bright-shiny-new-object)
 
 One of the great traits of Chingu teams is they are driven to stretching their capabilities to learn new technologies and to deliver quality applications. These are admirable attributes, but it's important that teams not sacrifice completing a project at the expense of striving for perfection.
 
