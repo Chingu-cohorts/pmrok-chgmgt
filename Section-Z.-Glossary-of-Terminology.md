@@ -1,0 +1,1 @@
+**_blocker_** - Any issue or task that is preventing the project from moving forward or is preventing another task from being able to be started.
