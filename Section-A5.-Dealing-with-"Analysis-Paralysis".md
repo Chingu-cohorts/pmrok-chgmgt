@@ -1,3 +1,5 @@
+![Goals & Expectations](#setting-your-goals--expectations) | ![Too Much New](#case-1-too-much-new) | ![Perfection](#case-2-perfection-is-the-enemy-of-good) | ![Shiny Object](#case-3-the-bright-shiny-new-object)
+
 One of the great traits of Chingu teams is they are driven to stretching their capabilities to learn new technologies and to deliver quality applications. These are admirable attributes, but it's important that teams not sacrifice completing a project at the expense of striving for perfection.
 
 The short duration of Chingu Voyages requires that teams strike a delicate balance between performing quality work, learning new things, and completing the project. This is made even more import by the fact that team members typically have responsibilities outside of their Voyage project such as family obligations, jobs, and school which can create more stress. The objective of the Voyage is to learn and not increase stress.
@@ -19,8 +21,8 @@ Some teams have a tendency to over commit to the amount of new technology they c
 
 ### Symptoms
 1. Technologies in the project stack which no one on the team has any experience using.
-2. Warning: User story uncompleted for more than 1 sprint
-3. Danger: User story uncompleted for more than 2 sprints
+2. _Warning_: User story uncompleted for more than 1 sprint
+3. _Danger_: User story uncompleted for more than 2 sprints
 
 ### Preventative, Corrective, or Mitigating Actions
 1. There is an adage stating "You can't manage what you don't measure". Defining the technology baseline for your team will help you to recognize with the teams capabilities are being strained.
