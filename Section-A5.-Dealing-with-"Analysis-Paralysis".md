@@ -15,7 +15,15 @@ What follows are various situations that can impair your teams ability to comple
 
 ## Case #1: "Too Much New"
 
-Some teams have a tendency to 
+Some teams have a tendency to over commit to the amount of new technology they choose to include in their app. This includes frontend libraries and frameworks, CSS libraries, database management systems, object relational mappers, and a whole myriad of development and runtime technologies. 
+
+Assessing the teams technical knowledge and ensuring that at least one member of the team is acquainted with each component of the stack and than individual team members don't exceed their capability (the 25% rule) to absorb new technology is the best first step to prevent this situation. There is an adage stating "You can't manage what you don't measure". Defining the technology baseline for your team will help you to recognize with the teams capabilities are being strained.
+
+It's always a possibility that team members may want to press ahead with implementing "too much new". Some strategies to convince them otherwise include:
+
+- Measuring the rate of story completion for each sprint and projecting the impact on project completion.
+- Alternatively, tracking user stories that are unresolved across multiple sprints. The root cause of team members who are unable to complete their stories across more than two sprints could be, but isn't limited to, too much new technology.
+- At some point you may need to step in and request in more strenuous terms that more "tried and true" technologies be used. It should be stressed to the team that the stories that include new technologies may always be re-attempted once the app is working and as time permits.
 
 ## Case #2: "Perfection is the enemy of Good"
 
