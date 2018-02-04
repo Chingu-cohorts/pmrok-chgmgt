@@ -1,7 +1,4 @@
-Managing a project requires a thorough understanding of how to conduct
-development sprints, an MVP, and how to close out the project once it has
-been completed. The following topics provide valuable information on each
-of these tasks.
+Managing a project requires an understanding of development sprints, MVPs and closure of projects upon completion. Following topics provide information on each of these tasks:
 
 ## [Your Sprints][s04-sprints]
 ## [Conducting an MVP][s05-mvp]
