@@ -2,18 +2,18 @@
 **_About Voyages..._**<br>
 [Introduction][home]<br>
 [Voyage Roadmap][s02-voyageroadmap]<br>
-[Voyage Workflow][s03-voyageworkflow]
+[Voyage Workflow][s03-voyageworkflow]<br>
 **_Concepts..._**<br>
 [Project Manager Concepts][s01-pmconcepts]<br>
 [Tools & Resources][s07-tools]<br>
 [PM FAQ][s08-pmfaq]<br>
-[Glossary][s10-glossary]
+[Glossary][s10-glossary]<br>
 **_Managing a Project..._**<br>
 [Your Sprints][s04-sprints]<br>
 [Conducting an MVP][s05-mvp]<br>
-[Project Closure][s06-closure]
+[Project Closure][s06-closure]<br>
 **_Guidance..._**<br>
-[Situational Guidance][s09-situationguide]
+[Situational Guidance][s09-situationguide]<br>
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
 [s01-pmconcepts]: https://github.com/Chingu-cohorts/pmrok/wiki/Section-01.-Project-Manager-Concepts
