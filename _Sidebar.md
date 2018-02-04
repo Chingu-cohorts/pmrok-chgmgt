@@ -1,6 +1,6 @@
 ## Table of Contents
 ### About Voyages
-[Introduction][home]
+[Introduction][home]<br>
 [Voyage Roadmap][s02-voyageroadmap]<br>
 [Voyage Workflow][s03-voyageworkflow]
 ### Concepts
@@ -15,7 +15,7 @@
 ### Guidance
 [Situational Guidance][s09-situationguide]
 
-[home]: https://github.com/Chingu-cohorts/pmrok/wiki#the-chingu-project-management-repository-of-knowledge
+[home]: https://github.com/Chingu-cohorts/pmrok/wiki
 [s01-pmconcepts]: https://github.com/Chingu-cohorts/pmrok/wiki/Section-01.-Project-Manager-Concepts
 [s02-voyageroadmap]: https://github.com/Chingu-cohorts/pmrok/wiki/Section-02.-Build-to-Learn-Project-Roadmap
 [s03-voyageworkflow]: https://github.com/Chingu-cohorts/pmrok/wiki/Section-03.-Support-&-Voyage-Workflow
