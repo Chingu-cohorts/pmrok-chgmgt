@@ -1,3 +1,5 @@
+**_backlog_** - The main source of information about the project is the _Product Backlog_, which defines requirements the application must meet in order to be successful. Requirements are expressed as user stories of the format: “As a: <role> I want to: <function-description> So I can: <value-statement>”
+
 **_blocker_** - Any issue or task that is preventing the project from moving forward or is preventing another task from being able to be started.
 
 **_burndown chart_** - A graphical view of the number of stories in the backlog that have been completed against the total number remaining across sprints.
