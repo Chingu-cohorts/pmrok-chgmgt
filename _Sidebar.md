@@ -1,11 +1,11 @@
 # Table of Contents
 ## [About this Wiki][home]
 ## [About Voyages...][about-voyages]
-## [Concepts & Resources...][concepts]
 ## [Managing a Project...][managing-a-project]
 ## Guidance
 - [Situational Guidance][situationguide]
 - [Managing Conflict (TBD)][managingconflict]
+## [Resources...][concepts]
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
 [about-voyages]: https://github.com/Chingu-cohorts/pmrok/wiki/About-Voyages
