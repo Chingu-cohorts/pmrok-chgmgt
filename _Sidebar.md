@@ -9,7 +9,7 @@
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
 [about-voyages]: https://github.com/Chingu-cohorts/pmrok/wiki/About-Voyages
-[concepts]: https://github.com/Chingu-cohorts/pmrok/wiki/Concepts
+[concepts]: https://github.com/Chingu-cohorts/pmrok/wiki/Concepts-&-Resources
 [managing-a-project]: https://github.com/Chingu-cohorts/pmrok/wiki/Managing-a-Project
 [situationguide]: https://github.com/Chingu-cohorts/pmrok/wiki/Situational-Guidance
 [managingconflict]: tbd
