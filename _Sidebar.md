@@ -1,5 +1,6 @@
 ## Table of Contents
-**_About Voyages..._**<br>
+**_About Voyages..._**
+<hr>
 [Introduction][home]<br>
 [Voyage Roadmap][s02-voyageroadmap]<br>
 [Voyage Workflow][s03-voyageworkflow]<br>
