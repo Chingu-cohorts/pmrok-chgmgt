@@ -1,7 +1,7 @@
 # Table of Contents
 ## [About this Wiki][home]
 ## [About Voyages...][about-voyages]
-## [Concepts...][concepts]
+## [Concepts & Resources...][concepts]
 ## [Managing a Project...][managing-a-project]
 ## Guidance
 - [Situational Guidance][situationguide]
