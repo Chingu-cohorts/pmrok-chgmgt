@@ -1,18 +1,18 @@
-## Table of Contents
-### About Voyages...
+# Table of Contents
+**_About Voyages..._**<br>
 [Introduction][home]<br>
 [Voyage Roadmap][s02-voyageroadmap]<br>
 [Voyage Workflow][s03-voyageworkflow]<br>
-### Concepts...
+**_Concepts..._**<br>
 [Project Manager Concepts][s01-pmconcepts]<br>
 [Tools & Resources][s07-tools]<br>
 [PM FAQ][s08-pmfaq]<br>
 [Glossary][s10-glossary]<br>
-### Managing a Project...
+**_Managing a Project..._**<br>
 [Your Sprints][s04-sprints]<br>
 [Conducting an MVP][s05-mvp]<br>
 [Project Closure][s06-closure]<br>
-### Guidance...
+**_Guidance..._**<br>
 [Situational Guidance][s09-situationguide]<br>
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
