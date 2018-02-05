@@ -1,4 +1,6 @@
-At Chingu, we build to learn. Below is the project roadmap for teams: 
+At Chingu, we build to learn. Below is the project roadmap for teams:
+
+![Voyage Roadmap](https://github.com/Chingu-cohorts/pmrok/blob/development/diagrams/Voyage%20Roadmap%20Diagram.png) 
 
 # Chingu-Voyage Build-to-Learn Roadmap
 
