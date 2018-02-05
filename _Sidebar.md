@@ -21,7 +21,6 @@
 
 ### Resources
 - [More...][concepts]
-<br>
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
 [concepts]: https://github.com/Chingu-cohorts/pmrok/wiki/Concepts-&-Resources
