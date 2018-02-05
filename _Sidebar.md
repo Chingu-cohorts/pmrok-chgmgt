@@ -2,7 +2,7 @@
 <details>
   <summary>About this Wiki</summary>
 
-[About this Wiki...][home]
+[The Chingu PMRoK][home]
 </details>
 <hr/>
 
