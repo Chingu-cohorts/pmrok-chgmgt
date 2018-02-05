@@ -1,5 +1,9 @@
 ## Table of Contents
-### [About this Wiki...][home]
+<details>
+  <summary>About this Wiki</summary>
+
+[About this Wiki...][home]
+</details>
 <hr/>
 
 <details>
