@@ -5,29 +5,52 @@
 <details>
   <summary>About Voyages</summary>
 
-- [Voyage Roadmap][s02-voyageroadmap]
-- [Voyage Workflow][s03-voyageworkflow]
-
+[Voyage Roadmap][voyage-roadmap] <br>
+[Voyage Workflow][voyage-workflow]
 </details>
 
 <hr/>
+ 
+<details>
+  <summary>Managing a Project</summary>
 
-### Managing a Project
-- [More...][managing-a-project]
+[Project Manager Concepts][managingproj-pmconcepts]<br>
+[Your Sprints][managingproj-sprints]<br>
+[Conducting an MVP][managingproj-mvp]<br>
+[Project Closure][managingproj-closure]<br>
+</details>
 <hr/>
 
-### Guidance
-- [Situational Guidance][situationguide]
-- [Managing Conflict (TBD)][managingconflict]
+<details>
+  <summary>Guidance</summary>
+
+[Situational Guidance][situationguide]<br>
+[Managing Conflict (TBD)][managingconflict]
+</details>
 <hr/>
 
-### Resources
-- [More...][concepts]
+<details>
+  <summary>Resources</summary>
+
+[Tools & Resources][resources-tools]<br>
+[PM FAQ][resources-pmfaq]<br>
+[Glossary][resources-glossary]
+</details>
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
-[s02-voyageroadmap]: https://github.com/Chingu-cohorts/pmrok/wiki/Section-02.-Build-to-Learn-Project-Roadmap
-[s03-voyageworkflow]: https://github.com/Chingu-cohorts/pmrok/wiki/Section-03.-Support-&-Voyage-Workflow
-[concepts]: https://github.com/Chingu-cohorts/pmrok/wiki/Concepts-&-Resources
-[managing-a-project]: https://github.com/Chingu-cohorts/pmrok/wiki/Managing-a-Project
+
+[voyage-roadmap]: https://github.com/Chingu-cohorts/pmrok/wiki/Voyage-Roadmap
+[voyage-workflow]: https://github.com/Chingu-cohorts/pmrok/wiki/Voyage-Workflow
+
+[managingproj-pmconcepts]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-PM-Concepts
+[managingproj-sprints]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-Sprints
+[managingproj-mvp]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-MVP
+[managingproj-closure]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-Closure
+
 [situationguide]: https://github.com/Chingu-cohorts/pmrok/wiki/Situational-Guidance
 [managingconflict]: tbd
+
+[resources]: https://github.com/Chingu-cohorts/pmrok/wiki/Resources
+[resources-tools]: https://github.com/Chingu-cohorts/pmrok/wiki/Resources-Tools
+[resources-pmfaq]: https://github.com/Chingu-cohorts/pmrok/wiki/Resources-PMFAQ
+[resources-glossary]: https://github.com/Chingu-cohorts/pmrok/wiki/Resources-Glossary
