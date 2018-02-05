@@ -10,7 +10,7 @@ suggestions for how these can be improved by opening an [issue](https://github.c
 [Managing Issues & Requests][sitguide-issues]<br>
 [Dealing with "Analysis Paralysis"][sitguide-analysis-paralysis]<br>
 
-[sitguide-project-backlog]: https://github.com/Chingu-cohorts/pmrok/wiki/SSitGuide-Project-Backlog
+[sitguide-project-backlog]: https://github.com/Chingu-cohorts/pmrok/wiki/SitGuide-Project-Backlog
 [sitguide-app-secrets]:https://github.com/Chingu-cohorts/pmrok/wiki/SitGuide-Application-Secrets
 [sitguide-teamdoc]:https://github.com/Chingu-cohorts/pmrok/wiki/SitGuide-Team-Doc
 [sitguide-issues]:https://github.com/Chingu-cohorts/pmrok/wiki/SitGuide-Issues-Requests
