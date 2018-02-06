@@ -2,7 +2,8 @@
 <details>
   <summary>About this Wiki</summary>
 
-[The Chingu PMRoK][home]
+[The Chingu PMRoK][home]<br>
+[How to Contribute][home-contribute]
 </details>
 <hr/>
 
@@ -42,6 +43,7 @@
 </details>
 
 [home]: https://github.com/Chingu-cohorts/pmrok/wiki
+[home-contribute]: https://github.com/Chingu-cohorts/pmrok/wiki/Home-Contribute
 
 [voyage-roadmap]: https://github.com/Chingu-cohorts/pmrok/wiki/Voyage-Roadmap
 [voyage-workflow]: https://github.com/Chingu-cohorts/pmrok/wiki/Voyage-Workflow
