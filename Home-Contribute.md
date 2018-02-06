@@ -20,7 +20,7 @@ up in the mirror to automatically push changes from the `master` branch once
 a PR for a change has been reviewed, approved, and merged from `development`
 into `master`.
 
-This architecture was adapted from this [article](https://github.com/Chingu-cohorts/pmrok.wiki.git)
+This architecture was adapted from this [article](http://www.growingwiththeweb.com/2016/07/enabling-pull-requests-on-github-wikis.html)
 and the following diagram depicts the change management flow for PMRoK.
 
 ![PMRoK Change Management Workflow](https://github.com/Chingu-cohorts/pmrok/blob/development/diagrams/PMRoK%20Change%20Mgt%20Workflow.png)
