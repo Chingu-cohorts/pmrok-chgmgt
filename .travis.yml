@@ -1,0 +1,19 @@
+script:
+- git config user.name "jdmedlock"
+- git config user.email "jdmedlock@gmail.com"
+- git remote remove origin
+- git remote add origin https://$GITHUB_API_KEY@github.com/Chingu-cohorts/pmrok-chgmgt
+  > /dev/null 2>&1
+- git remote add upstream https://$GITHUB_API_KEY@github.com/Chingu-cohorts/pmrok.wiki.git
+  > /dev/null 2>&1
+- git fetch origin
+- git fetch upstream
+- git merge upstream/master --no-edit
+- git push origin HEAD:master
+- git push upstream HEAD:master
+branches:
+  only:
+  - master
+env:
+  matrix:
+  - secure: Ip/OZjCR96IbBlGrzmIVqOONVaD+kxMjfjZDMg02CEwCCi2fb7Kf7tROGybv408nUn4MMFJsAo3bMWMHk+mzHA3U/BYWvN0E7TBssDcQRTqK16lo2e41k2YzbfJ5INXCF3l5475/foI1OAdtxFxuB04B4SVnJNDQzvqw3edySq966z2MslguI1y2FkNsS3NmdR57cdaBYwMRZjQ9+Jb0GlZZYfkfTpNyrJHT7O7t6cKaAKw6++q/HMQ7/J5X38jrIFQCfcWocY+plKX4ZQhlKlFcRh3NDW/3+5ViZlD1ZhAgHu60hYYOQqO9gmVYyynlZFkbgCz8OrlPj9UH52zS3CsyXIZiFOQEwBOhMph48YJUjFlMM1wLywGqv+a3KD3s+uqrL5lZTiFUmpbK5neNjsvlwWMi4q9oUU0ad6U/oiSuH7QIPTLdwFFCkhDwuLhcqi+5cqfZlPEwi+Tmg0cLlz4FtBRW8CYLfCps0I5rYqilz7SqsWAyP1dtPPCFS+xS6VZn4e2q/NdQ0hCaxvHp5E9YihFsmBKfn9xUiIfdGPNvj7O0ykLaPhvGvoid5Nqa4ocGCqPUZ2W5MC7MxYFrYADC5P5djd2DAgdIULzhk2S8yQd2QoWNhNZCJcWKvPhTc7854YNWThtYpEHJKs/bzAEecJoE30RWSODq9bO5+fo=
