@@ -30,7 +30,7 @@
   <summary>Guidance</summary>
 
 [Situational Guidance][situationguide]<br>
-[Managing Conflict (TBD)][managingconflict]
+[Managing Conflict][managingconflict]
 </details>
 <hr/>
 
@@ -55,7 +55,7 @@
 [managingproj-closure]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-Closure
 
 [situationguide]: https://github.com/Chingu-cohorts/pmrok/wiki/Situational-Guidance
-[managingconflict]: tbd
+[managingconflict]: https://github.com/Chingu-cohorts/pmrok/wiki/Managing-Conflict
 
 [resources]: https://github.com/Chingu-cohorts/pmrok/wiki/Resources
 [resources-tools]: https://github.com/Chingu-cohorts/pmrok/wiki/Resources-Tools
