@@ -10,11 +10,11 @@ extend your PM skills.
 
 Making corrections or adding content to PMRoK follows a process very
 similar to the one you use when making contributions to your Voyage projects. 
-GitHub Wiki's are implementated in a manner that doesn't allow changes to be
-approved and merged use the Pull Request (PR) mechanism available to normal
+GitHub Wiki's are implemented in a manner that doesn't allow changes to be
+approved and merged using the Pull Request (PR) mechanism available to normal
 repos.
 
-Due to this a "mirror" repo has been created that you will use to make changes
+Due to this, a "mirror" repo has been created that you will use to make changes
 just like you do in a normal project repo. TravisCI integration has been set
 up in the mirror to automatically push changes from the `master` branch once
 a PR for a change has been reviewed, approved, and merged from `development`
@@ -31,13 +31,13 @@ your computer. By default the `development` branch will be cloned onto your comp
 Any changes or additions to make should be made to this working branch. Remember to issue frequent
 commits if you are making multiple changes so there is a detailed trail of each change you've made.
 3. When you are ready to share with others or if you just need to ensure that your in progress work
-is backed up push your changes to the `pmrok-chgmt` repo using the same working branch name. For
+is backed up, push your changes to the `pmrok-chgmt` repo using the same working branch name. For
 example, `git push origin fix/softskill-url`.
 4. If you should need to refresh your working branch from GitHub simply
 `git pull origin <working-branch>`.
 5. When your changes are completed you can start the process of promoting them to the wiki by
 creating a PR to merge your changes into the `development` branch. Be sure to select `PMCAB` as
-the reviewer and once changes have been reviewed and approved you will be responsible for 
+the reviewer and once changes have been reviewed and approved, you will be responsible for 
 performing the merge.
 6. Once your change has been merged into the `development` branch it will be ready to merge into
 the `master` branch along with changes submitted by others. A member of the _PMRoK Change Approval
