@@ -120,13 +120,13 @@ feels effortless rather than a chore.
 
 >Besides the obvious Slack and Github the following are tools that work for many Chingu teams
 
-> <https://www.waffle.io|Waffle> - Trello and Github had a baby that makes project management a breeze
+> [Waffle](https://www.waffle.io) - Trello and Github had a baby that makes project management a breeze
 
-> <https://www.discord.com|Discord> - "Always-on" communication tool. Leave it on mute while you work then unmute 
+> [Discord](https://www.discord.com) - "Always-on" communication tool. Leave it on mute while you work then unmute 
 as needed to gain access to team mates for problem solving detours. Use it for clear audio while using Google 
 Hangouts (don't forget to mute the echo from Hangouts!)
 
-> <https://hangouts.google.com|Google Hangouts> - A screensharing / pair-programming must (until VSC Live comes 
+> [Google Hangouts](https://hangouts.google.com) - A screensharing / pair-programming must (until VSC Live comes 
 out!!)
 
 *Suggested Use*: 

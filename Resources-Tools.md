@@ -2,7 +2,7 @@
 
 Below are some tools and resources teams have found helpful in the past. Most of these were discovered by people like you, so if you find a resource or tool that was helpful please let us know! 🚀 
 
-#### Chingu-X & The Wizard
+### Chingu-X & The Wizard
 
 Chingu is a platform to launch opportunities for developers, but another part of Chingu is researching and developing ways to better facilitate those opportunities. We call this global collaboration lab Chingu-X, and they built: 
 
@@ -11,23 +11,23 @@ Chingu is a platform to launch opportunities for developers, but another part of
 * **The Wizard Standups** - This is a tool to better facilitate team communication. It will ping you twice a week to answer a few short questions (ex. What did you work on? What are you going to work on? What is blocking your way?) and relay that information back to your team. 
 
 
-#### Project Management Organization tools
+### Project Management Organization tools
 
 A major part of project management is organizing the information you collect
 from your team and organizing it in a way that is actionable. Tools such as the
 following help you create a backlog of tasks that can be tracked as they 
-progress through various states such as Next, Blocked, In Progress, Revew, and
+progress through various states such as Next, Blocked, In Progress, Review, and
 Completed.
 
 Regardless of which tool you might choose a prime requirement is that the tool
 must support sharing assignments and progress with the team.
 
 - [GitHub Projects](https://help.github.com/articles/about-project-boards/)
-- [Trello](www.trello.com)
-- [Waffle](www.waffle.io)
+- [Trello](https://www.trello.com)
+- [Waffle](https://www.waffle.io)
 - [ZenHub](https://www.zenhub.com/)
 - [Google docs](https://docs.google.com/) (better used as an ideation tool or the intial breaking down of a project to clone)
-- [Asana](www.asana.com)
+- [Asana](https://www.asana.com)
 
 Here are some past examples of Voyage members using these tools: 
 
@@ -49,7 +49,7 @@ Teams may need to be flexible and adapt as need-be to make meetings and pair-pro
 
 Here's an article for [Virtual Icebreakers for Remote Teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)  
 
-### Scheduling Meetings and Coordination Tools
+#### Scheduling Meetings and Coordination Tools
 
 Scheduling meetings in an organization like the Chingus is complicated by the
 fact our team mates are spread across many continents and timezones. Coupled
@@ -61,9 +61,9 @@ jello to a tree.
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
 - [Timezone](http://timezone.me/en/meeting-planner)
 
-### Meeting & Pair Programming Tools
+#### Meeting & Pair Programming Tools
 
-- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings.
+- [Appear.in](https://appear.in/) - some teams swear by this tool for its flexibility and ease of use for doing meetings.
 - [Discord](https://discord.com) 
 - [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though.
 - [Jitsi](https://meet.jit.si)
@@ -71,7 +71,7 @@ jello to a tree.
 - [Talky.io](https://talky.io) 
 - [Team Viewer](https://www.teamviewer.us/)
 
-#### Issue Tracking
+### Issue Tracking
 
 Keeping track of the issues to ensure that they are quickly and permanently
 resolved plays a major role in improving product quality and lowering technical
@@ -82,7 +82,7 @@ Some tools that can be used to introduce the necessary rigor to issue tracking
 include:
 
 - [GitHub Issues](https://guides.github.com/features/issues/)
-- [Waffle.io](http://www.waffle.io) Integrates into Github Issues
+- [Waffle.io](https://www.waffle.io) Integrates into Github Issues
 - [Airtable.com Bug Tracker Template](https://airtable.com)
 - Any kanban system (ex. Trello) which you track bugs, categorize them and work through them.
 
@@ -94,7 +94,7 @@ In your role as a PM you may find the following useful.
 
 - [The Agile Manifesto](http://agilemanifesto.org/)
 - [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
-- [6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
+- [6 Tips of Building Efficient Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
 - [Project Scope — what it is and why it’s important](https://medium.com/chingu/project-scope-what-it-is-and-why-its-important-1a07c8e07dbf)
 
 #### Chingu Resources
