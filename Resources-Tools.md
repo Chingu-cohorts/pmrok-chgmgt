@@ -23,11 +23,11 @@ Regardless of which tool you might choose a prime requirement is that the tool
 must support sharing assignments and progress with the team.
 
 - [GitHub Projects](https://help.github.com/articles/about-project-boards/)
-- [Trello](www.trello.com)
-- [Waffle](www.waffle.io)
+- [Trello](https://www.trello.com)
+- [Waffle](https://www.waffle.io)
 - [ZenHub](https://www.zenhub.com/)
 - [Google docs](https://docs.google.com/) (better used as an ideation tool or the intial breaking down of a project to clone)
-- [Asana](www.asana.com)
+- [Asana](https://www.asana.com)
 
 Here are some past examples of Voyage members using these tools: 
 
@@ -82,7 +82,7 @@ Some tools that can be used to introduce the necessary rigor to issue tracking
 include:
 
 - [GitHub Issues](https://guides.github.com/features/issues/)
-- [Waffle.io](http://www.waffle.io) Integrates into Github Issues
+- [Waffle.io](https://www.waffle.io) Integrates into Github Issues
 - [Airtable.com Bug Tracker Template](https://airtable.com)
 - Any kanban system (ex. Trello) which you track bugs, categorize them and work through them.
 
