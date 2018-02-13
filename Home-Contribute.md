@@ -40,8 +40,7 @@ If you have previously cloned the "mirror" repo you should *_always_* refresh it
 
 ### Making a Change
 1. Create a new _working branch_ with a descriptive name. For example, `fix/softskill-url`.
-Any changes or additions to make should be made to this working branch. Remember to issue frequent
-commits if you are making multiple changes so there is a detailed trail of each change you've made.
+Any changes or additions to make should be made to this working branch. Remember to issue frequent commits if you are making multiple changes so there is a detailed trail of each change you've made.
 2. When you are ready to share with others or if you just need to ensure that your in progress work
 is backed up push your changes to the `pmrok-chgmt` repo using the same working branch name. For
 example, `git push origin fix/softskill-url`.
