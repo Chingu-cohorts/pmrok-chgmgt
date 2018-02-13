@@ -63,7 +63,7 @@ jello to a tree.
 
 #### Meeting & Pair Programming Tools
 
-- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexibility and ease of use for doing meetings.
+- [Appear.in](https://appear.in/) - some teams swear by this tool for its flexibility and ease of use for doing meetings.
 - [Discord](https://discord.com) 
 - [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though.
 - [Jitsi](https://meet.jit.si)
