@@ -2,7 +2,7 @@
 
 Below are some tools and resources teams have found helpful in the past. Most of these were discovered by people like you, so if you find a resource or tool that was helpful please let us know! 🚀 
 
-#### Chingu-X & The Wizard
+### Chingu-X & The Wizard
 
 Chingu is a platform to launch opportunities for developers, but another part of Chingu is researching and developing ways to better facilitate those opportunities. We call this global collaboration lab Chingu-X, and they built: 
 
@@ -11,7 +11,7 @@ Chingu is a platform to launch opportunities for developers, but another part of
 * **The Wizard Standups** - This is a tool to better facilitate team communication. It will ping you twice a week to answer a few short questions (ex. What did you work on? What are you going to work on? What is blocking your way?) and relay that information back to your team. 
 
 
-#### Project Management Organization tools
+### Project Management Organization tools
 
 A major part of project management is organizing the information you collect
 from your team and organizing it in a way that is actionable. Tools such as the
@@ -49,7 +49,7 @@ Teams may need to be flexible and adapt as need-be to make meetings and pair-pro
 
 Here's an article for [Virtual Icebreakers for Remote Teams](https://www.collaborationsuperpowers.com/44-icebreakers-for-virtual-teams/)  
 
-### Scheduling Meetings and Coordination Tools
+#### Scheduling Meetings and Coordination Tools
 
 Scheduling meetings in an organization like the Chingus is complicated by the
 fact our team mates are spread across many continents and timezones. Coupled
@@ -61,7 +61,7 @@ jello to a tree.
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
 - [Timezone](http://timezone.me/en/meeting-planner)
 
-### Meeting & Pair Programming Tools
+#### Meeting & Pair Programming Tools
 
 - [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings.
 - [Discord](https://discord.com) 
@@ -71,7 +71,7 @@ jello to a tree.
 - [Talky.io](https://talky.io) 
 - [Team Viewer](https://www.teamviewer.us/)
 
-#### Issue Tracking
+### Issue Tracking
 
 Keeping track of the issues to ensure that they are quickly and permanently
 resolved plays a major role in improving product quality and lowering technical
