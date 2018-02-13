@@ -16,7 +16,7 @@ Chingu is a platform to launch opportunities for developers, but another part of
 A major part of project management is organizing the information you collect
 from your team and organizing it in a way that is actionable. Tools such as the
 following help you create a backlog of tasks that can be tracked as they 
-progress through various states such as Next, Blocked, In Progress, Revew, and
+progress through various states such as Next, Blocked, In Progress, Review, and
 Completed.
 
 Regardless of which tool you might choose a prime requirement is that the tool
@@ -63,7 +63,7 @@ jello to a tree.
 
 #### Meeting & Pair Programming Tools
 
-- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexiblity and ease of use for doing meetings.
+- [Appear.in](https://appear.in/) - some teams swear by this tool for it's flexibility and ease of use for doing meetings.
 - [Discord](https://discord.com) 
 - [Google hangouts](https://hangouts.google.com/) - great for audio/video meetings and has screenshare functionality. Everyone needs to have a gmail account though.
 - [Jitsi](https://meet.jit.si)
@@ -94,7 +94,7 @@ In your role as a PM you may find the following useful.
 
 - [The Agile Manifesto](http://agilemanifesto.org/)
 - [A Short Introduction to the Scrum Methodology](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
-- [6 Tips of Building Efficent Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
+- [6 Tips of Building Efficient Team in Chingu](https://medium.com/chingu/6-tips-of-building-efficient-team-in-chingu-3477c2f7305b)
 - [Project Scope — what it is and why it’s important](https://medium.com/chingu/project-scope-what-it-is-and-why-its-important-1a07c8e07dbf)
 
 #### Chingu Resources
