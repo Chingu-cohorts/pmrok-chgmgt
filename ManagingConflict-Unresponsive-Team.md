@@ -36,3 +36,4 @@ project schedule accordingly, and move on.
 participating. Depending on the size of your team, the complexity of
 the project, and where you are at within the Voyage, you might also want
 to ask for the addition of new team members to fill the gap.
+
