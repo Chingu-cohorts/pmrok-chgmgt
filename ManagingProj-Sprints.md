@@ -12,7 +12,7 @@ Dividing your project in this way and planning and executing in a progression al
 
 Sprints are application development cycles having a duration of one week each. The sprint length is fixed across the life of the project and a fixed number of user stories are assigned to each sprint. This is not to say that stories cannot be added to the sprint. Just that they can’t be added if doing so exceeds the capacity of the team to create, test, and deploy a working application by the end of the sprint. It is quite often the case that teams under estimate the number of stories that can be completed and have to add stories to fill out the remainder of the sprint.
 
-As previously mentioned sprints build upon one another. With each sprint the usability and value of the product increases as features are added and refined. Even though sprints result in a deployable application users may choose not to use it in production until it reaches a certain minimum threshold of feature and functionality. However, having a working application increment helps to demonstrate progress and solicit customer feedback at the end of each sprint.
+As previously mentioned, sprints build upon one another. With each sprint, the usability and value of the product increases as features are added and refined. Even though sprints result in a deployable application, users may choose not to use it in production until it reaches a certain minimum threshold of feature and functionality. However, having a working application increment helps to demonstrate progress and solicit customer feedback at the end of each sprint.
 
 ### Sprint Planning
 
@@ -28,10 +28,10 @@ These are not intended to be meetings where issues or problems are to be solved 
 
 ### Code Review & Merge
 
-At the end of each sprint a Code Review is conducted to walkthrough the working product and to merge it into the projects `master` branch. This meeting is an opportunity to get feedback on the state of the product, discuss issues and possible changes or new features, and to decide on what to do next.
+At the end of each sprint, a Code Review is conducted to walkthrough the working product and to merge it into the project's `master` branch. This meeting is an opportunity to get feedback on the state of the product, discuss issues and possible changes or new features, and to decide on what to do next.
 
 ### Sprint Retrospective
 
-The Sprint Retrospective is conducted by and for the Project Team to promote continuous improvement. It is the primary means to the team uses to improve their work and to drive value not just for the customer, but also for themselves in the form of a more integrated and smoothly operating team.
+The Sprint Retrospective is conducted by and for the Project Team to promote continuous improvement. It is the primary means the team uses to improve their work and to drive value not just for the customer, but also for themselves in the form of a more integrated and smoothly operating team.
 
-This is an inward look by the team at how they performed during the last sprint and identify changes for the next sprint. This isn’t just about technology and tools, but also about procedures, interactions between people and roles, and successes and failures. The goal is to improve by implementing “midstream” corrections at the point they are needed.
+This is an inward look by the team at how they performed during the last sprint and an opportunity to identify changes for the next sprint. This isn’t just about technology and tools, but also about procedures, interactions between people and roles, and successes and failures. The goal is to improve by implementing “midstream” corrections at the point they are needed.
