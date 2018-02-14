@@ -32,7 +32,7 @@ your computer. By default the `development` branch will be cloned onto your comp
 ### Refreshing the Local Repo
 If you have previously cloned the "mirror" repo you should *_always_* refresh it from the PMRoK Wiki, not the "mirror" repo. This will ensure that you start with all of the changes made by both you and others. To do a refresh:
 1. Make sure that you have defined an 'upstream' remote in your local repo using the command: 
-   `git remote add upstream https://github.com/Chingu-cohorts/voyage-wiki.git`
+   `git remote add upstream https://github.com/Chingu-cohorts/pmrok-wiki.git`
 2. If you are unsure if you have defined this remote you can display all remotes in your local repo using the command: 
    `git remote -v`
 3. To pull changes from the PMRoK Wiki to your local "mirror" repo use the command:<br> 
