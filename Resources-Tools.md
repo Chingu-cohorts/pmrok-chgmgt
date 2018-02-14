@@ -19,7 +19,7 @@ following help you create a backlog of tasks that can be tracked as they
 progress through various states such as Next, Blocked, In Progress, Review, and
 Completed.
 
-Regardless of which tool you might choose a prime requirement is that the tool
+Regardless of which tool you might choose, a prime requirement is that the tool
 must support sharing assignments and progress with the team.
 
 - [GitHub Projects](https://help.github.com/articles/about-project-boards/)
@@ -41,9 +41,9 @@ Here are some past examples of Voyage members using these tools:
 
 Conducting meetings and pair programming activities both require that you
 schedule sessions at a date and time that is convenient to all
-participants. They also require that you and your team selecting a tool 
+participants. They also require that you and your team select a tool 
 with features to help you to efficiently communicate. These features include
-audio, video, text messaging, and screensharing. 
+audio, video, text messaging, and screen sharing. 
 
 Teams may need to be flexible and adapt as need-be to make meetings and pair-programming adventures possible.
 
@@ -53,9 +53,9 @@ Here's an article for [Virtual Icebreakers for Remote Teams](https://www.collabo
 
 Scheduling meetings in an organization like the Chingus is complicated by the
 fact our team mates are spread across many continents and timezones. Coupled
-with team mate obligations outside of the Chingu universe this makes finding
+with team mate obligations outside of the Chingu universe, this makes finding
 meeting times suitable for all team members as difficult as trying to nail
-jello to a tree.
+Jell-O to a tree.
 
 - [Meekan](https://meekan.com/) - This is the primary tool we encourage PMs to use for scheduling meeting times. Meekan will be installed in the Voyage slack but each member has to activate it with their calendars. PMs may have to Direct-Message members of their team who don't have it activated. 
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html)
