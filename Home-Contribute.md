@@ -35,7 +35,7 @@ If you have previously cloned the "mirror" repo you should *_always_* refresh it
    `git remote add upstream https://github.com/Chingu-cohorts/pmrok.wiki.git`
 2. If you are unsure if you have defined this remote you can display all remotes in your local repo using the command: 
    `git remote -v`
-3. To pull changes from the PMRoK Wiki to your local "mirror" repo checkout your working branch in your local repo and then pull the contents of the upstreams `master` branch into it:<br>
+3. To pull changes from the PMRoK Wiki to your local "mirror" repo checkout your working branch in your local repo and then pull the contents of the upstreams `master` branch into it before making any changes.
 ```
    git checkout <working-branch> 
    git pull upstream master
