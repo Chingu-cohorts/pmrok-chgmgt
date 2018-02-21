@@ -8,7 +8,6 @@ and post status of their teams and projects.
 To use the Wizard enter one of the commands below in the message box in your
 teams Slack channel.
 
-- `/team` list commands
 - `/team map` will directly open the Voyage Map. 
 - `/team next` will directly open the Next Milestone
 - `/team standup` will directly open the Team Standups view (with the option
