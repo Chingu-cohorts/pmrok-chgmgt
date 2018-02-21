@@ -23,6 +23,7 @@
 [Your Sprints][managingproj-sprints]<br>
 [Conducting an MVP][managingproj-mvp]<br>
 [Project Closure][managingproj-closure]<br>
+[Using the Wizard][managingproj-wizard]
 </details>
 <hr/>
 
@@ -53,6 +54,7 @@
 [managingproj-sprints]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-Sprints
 [managingproj-mvp]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-MVP
 [managingproj-closure]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-Closure
+[managingproj-wizard]: https://github.com/Chingu-cohorts/pmrok/wiki/ManagingProj-Wizard
 
 [situationguide]: https://github.com/Chingu-cohorts/pmrok/wiki/Situational-Guidance
 [managingconflict]: https://github.com/Chingu-cohorts/pmrok/wiki/Managing-Conflict
